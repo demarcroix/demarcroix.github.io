@@ -28,6 +28,6 @@ Voir le [GitHub Privacy Statement](https://help.github.com/en/github/site-policy
 
 ### Loi Informatique et Liberté du 06/01/1978 modifiée et Règlementation Européenne sur les Données Personnelles (RGPD/GDPR)
 
-Le Responsable de Traitements de ce site Web ne collecte aucune donnée personnelle.
+Le Responsable de Traitements de ce site Web ne collecte aucune donnée personnelle pour son propre compte.
 
 Voir la [collecte des données personnelles de GitHub](https://help.github.com/en/github/site-policy/github-privacy-statement#what-information-github-collects) (anglais)
