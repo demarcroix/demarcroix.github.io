@@ -37,7 +37,7 @@ Le septième écran concerne la **Durée de conservation et d'archivage des donn
 
 ![Septième écran du registre, RoPA déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Nouvelle_analyse_AppName_7_.png "Septième écran du registre, RoPA déc. 2018")
 
-Le huitième écran concerne l'**Information individuelle des personnes concernées (la transparence)**:
+Le huitième écran concerne l'**Information individuelle des personnes concernées** (la transparence):
 
 ![Huitième écran du registre, RoPA déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Nouvelle_analyse_AppName_8_.png "Huitième écran du registre, RoPA déc. 2018")
 
