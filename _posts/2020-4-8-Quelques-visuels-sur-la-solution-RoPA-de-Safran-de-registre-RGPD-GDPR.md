@@ -18,3 +18,39 @@ Le second écran concerne les **Finalités du traitement**:
 ![Deuxième écran du registre, RoPA déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Nouvelle_analyse_AppName_2_.png "Deuxième écran du registre, RoPA déc. 2018")
 
 Le troisième écran concerne les **Bases juridiques du traitement**:
+
+![Troisième écran du registre, RoPA déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Nouvelle_analyse_AppName_3_.png "Troisième écran du registre, RoPA déc. 2018")
+
+Le quatrième écran concerne les **Catégories de personnes concernées**:
+
+![Quatrième écran du registre, RoPA déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Nouvelle_analyse_AppName_4_.png "Quatrième écran du registre, RoPA déc. 2018")
+
+Le cinquième écran concerne les **Catégories des données personnelles traitées**:
+
+![Cinquième écran du registre, RoPA déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Nouvelle_analyse_AppName_5_.png "Cinquième écran du registre, RoPA déc. 2018")
+
+Le sixième écran concerne les **Destinataires**:
+
+![Sixième écran du registre, RoPA déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Nouvelle_analyse_AppName_6_.png "Sixième écran du registre, RoPA déc. 2018")
+
+Le septième écran concerne la **Durée de conservation et d'archivage des données**:
+
+![Septième écran du registre, RoPA déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Nouvelle_analyse_AppName_7_.png "Septième écran du registre, RoPA déc. 2018")
+
+Le huitième écran concerne l'**Information individuelle des personnes concernées (la transparence)**:
+
+![Huitième écran du registre, RoPA déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Nouvelle_analyse_AppName_8_.png "Huitième écran du registre, RoPA déc. 2018")
+
+Le neuvième écran concerne la **Sécurité**:
+
+![Neuvième écran du registre, RoPA déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Nouvelle_analyse_AppName_9_.png "Neuvième écran du registre, RoPA déc. 2018")
+
+Le dixième écran concerne la **Sous-traitance**:
+
+![Dixième écran du registre, RoPA déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Nouvelle_analyse_AppName_10_.png "Dixième écran du registre, RoPA déc. 2018")
+
+Enfin, le onzième et dernier écran concerne le **Transfert de donnée hors UE**:
+
+![Onzième écran du registre, RoPA déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Nouvelle_analyse_AppName_11_.png "Onzième écran du registre, RoPA déc. 2018")
+
+Au final cet outil semble plus destiné à réaliser un inventaire des traitements, plutôt que la tenue d'un registres des activités de traitements avec la documentation correspondante.
