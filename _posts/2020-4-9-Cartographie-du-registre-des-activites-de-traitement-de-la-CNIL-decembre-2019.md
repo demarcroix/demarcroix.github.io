@@ -9,7 +9,7 @@ La CNIL a rendu public son registre des activités de traitements : l'occasion d
 
 ![Registre des activités de traitement de la CNIL, déc. 2019]({{ site.baseurl }}/images/CNIL/Registre_CNIL_12-2019.png "Registre des activités de traitement de la CNIL, déc. 2019")
 
-###Traitements métiers vs traitements courants
+### Traitements métiers vs traitements courants
 
 Premier constat dans [le registre des activités traitements de la CNIL](https://www.cnil.fr/fr/la-cnil-publie-son-registre-rgpd) : une grande liberté par rapport aux anciennes Dispenses, Normes Simplifiées et autres Autorisations Unique de l'avant RGPD !
 
@@ -31,7 +31,7 @@ Les 7 "méta-traitements" qui pourraient être facilement transposés ailleurs (
 * Marchés - Finance - Logistique
 * Fonctionnement courant des services
 
-###Quid des responsables conjoints de traitements?
+### Quid des responsables conjoints de traitements?
 
 Si en tant que DPO externalisé je me suis bien entendu intéressé en priorité au traitement 7.1 (Gestion des demandes adressées au délégué à la protection des données de la CNIL), je suis un peu resté sur ma faim concernant le traitement 4.5 (Gestion des comptes de réseaux sociaux de la CNIL)...
 
@@ -43,7 +43,7 @@ C'est flagrant quand un bouton "J'aime" d'un réseau social est inséré dans un
 
 Peut-être la CNIL a-t-elle jugé prématuré de se positionner sur le sujet?
 
-###Des mesures de sécurité techniques et organisationnelles décrites de façon sibyllines
+### Des mesures de sécurité techniques et organisationnelles décrites de façon sibyllines
 
 La sécurisation des données personnelles des personnes concernées constitue un point majeur du RGPD.
 
