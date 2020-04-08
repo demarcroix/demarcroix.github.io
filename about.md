@@ -3,9 +3,6 @@ layout: page
 title: Mentions légales
 permalink: /about/
 ---
-
-Some information about you!
-
 ### Editeur - Responsable de traitements
 
 Claustres Conseil Internet (CCI) SARL
