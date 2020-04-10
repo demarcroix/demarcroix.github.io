@@ -15,8 +15,6 @@ Avec près de 20 ans d'expérience dans l'accompagnement des entreprises innovan
 * Délégué à la Protection des Données (DPO) externalisé, avec une certification « DPO Bureau Veritas » depuis février 2018,
 * Missions ponctuelles d’accompagnement en avant-vente pour cadrer les enjeux RGPD en amont des projets.
 
-<center>
 ![Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données")
-</center>
 
 Pour nous contacter: contact(at)claustres.com (remplacer le '(at)' par '@')
