@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "La Règlementation Européenne sur les Données Personnelles pour les PME : contrainte ou opportunité ?"
+redirect_from:
+  - /post/2018/03/30/La-R%C3%A8glementation-Europ%C3%A9enne-sur-les-Donn%C3%A9es-Personnelles-pour-les-PME-%3A-contrainte-ou-opportunit%C3%A9
 ---
 
 _(Cet article est paru initialement le vendredi 30/03/2018 sur l'ancien Blog)_

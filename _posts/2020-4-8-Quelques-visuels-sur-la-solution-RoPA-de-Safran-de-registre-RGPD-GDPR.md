@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Quelques visuels sur la solution RoPA de Safran de registre RGPD - GDPR"
+redirect_from:
+  - /post/2018/12/12/Quelques-visuels-sur-la-solution-RoPA-de-Safran-de-registre-RGPD-GDPR
 ---
 
 _(Cet article est paru initialement le mercredi 12/12/2018 sur l'ancien Blog)_
