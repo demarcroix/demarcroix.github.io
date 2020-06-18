@@ -17,4 +17,10 @@ Avec près de 20 ans d'expérience dans l'accompagnement des entreprises innovan
 
 ![Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données")
 
-Pour nous contacter: contact(at)claustres.com (remplacer le '(at)' par '@')
+Nous avons développé une démarche spécifique pour les pme pour leur accompagnement dans la démarche rgpd.
+
+Nous avons aussi une expertise particulière en tant que DPO externalisé dans le domaine du médical (cabinets médicaux, éditeurs de logiciel...)
+
+N'hésitez pas à nous contacter si vous êtes sur Lyon, Grenoble, Chambéry, Valence, Paris...
+
+Notre email: contact(at)claustres.com (remplacer le '(at)' par '@')
