@@ -17,9 +17,9 @@ Avec près de 20 ans d'expérience dans l'accompagnement des entreprises innovan
 
 ![Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données")
 
-Nous avons développé une démarche spécifique pour les PME pour leur accompagnement dans la démarche RGPD.
+Nous avons développé une démarche spécifique aux PME pour leur accompagnement dans la démarche RGPD.
 
-Nous avons aussi une expertise particulière en tant que DPO externalisé dans le domaine du médical (cabinets médicaux, éditeurs de logiciel...)
+Nous avons aussi une expertise particulière en tant que DPO externalisé dans le domaine du médical : cabinets médicaux, éditeurs de logiciel...
 
 N'hésitez pas à nous contacter si vous êtes sur Lyon, Grenoble, Chambéry, Annecy, Valence, Paris...
 
