@@ -15,7 +15,7 @@ Avec près de 20 ans d'expérience dans l'accompagnement des entreprises innovan
 * Délégué à la Protection des Données (DPO) externalisé, avec une certification « DPO Bureau Veritas » depuis février 2018,
 * Missions ponctuelles d’accompagnement en avant-vente pour cadrer les enjeux RGPD en amont des projets.
 
-![Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données"){: .center-image }
+![Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données")
 
 Nous avons développé une démarche spécifique aux PME pour leur accompagnement dans la démarche RGPD.
 
@@ -23,4 +23,4 @@ Nous avons aussi une expertise particulière en tant que DPO externalisé dans l
 
 N'hésitez pas à nous contacter si vous êtes sur Lyon, Grenoble, Chambéry, Annecy, Valence, Paris...
 
-Nos coordonnées: contact@claustres.com ou 06 60 08 48 24
+Nos coordonnées: [contact@claustres.com](mailto:contact@claustres.com) ou 06 60 08 48 24.
