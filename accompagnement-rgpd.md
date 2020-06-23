@@ -3,9 +3,9 @@ layout: page
 title: "Expert RGPD - DPO externalisé - Grenoble Lyon Chambéry"
 permalink: /accompagnement-rgpd/
 ---
-Depuis le 25 mai 2018, les TPE & PME doivent se conformer au Règlement Européen sur les Données Personnelles (RGPD/GDPR), avec des degrés variables d'implications selon leur coeur de métier.
+Depuis le 25 mai 2018, les TPE & PME doivent se conformer au **Règlement Européen sur les Données Personnelles (RGPD/GDPR)**, avec des degrés variables d'implications selon leur coeur de métier.
 
-Claustres Conseil vous accompagne à 360° sur le RGPD :
+**Claustres Conseil vous accompagne à 360° sur le RGPD** :
 
 * Sensibilisation générale de vos équipes au RGPD ;
 * Formation RGPD des équipes et des responsables de services ;
