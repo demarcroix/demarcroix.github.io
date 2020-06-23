@@ -23,4 +23,5 @@ Nous avons aussi une expertise particulière en tant que DPO externalisé dans l
 
 N'hésitez pas à nous contacter si vous êtes sur Lyon, Grenoble, Chambéry, Annecy, Valence, Paris...
 
-Nos coordonnées: [contact@claustres.com](mailto:contact@claustres.com) ou 06 60 08 48 24.
+* email: [contact@claustres.com](mailto:contact@claustres.com)
+* téléphone: [06 60 08 48 24](tel:+33660084824)
