@@ -9,6 +9,6 @@ J'y parle (un peu) de RGPD et DPO externalisé, mais surtout de quelques unes de
 
 {% include youtube.html id=page.youtubeId %}
 
-Dommage que nous n'ayons pas eu le temps de parler du projet **Onlymee** avec le [brevet DCI](https://register.epo.org/application?number=EP03740553&tab=main) d'identification certaine et sécurisée dans l'économie numérique.
+Dommage que nous n'ayons pas eu le temps de parler de la société **Onlymee** qui devait développer le [brevet DCI](https://register.epo.org/application?number=EP03740553&tab=main) d'identification certaine et sécurisée dans l'économie numérique.
 
-C'est cette aventure qui m'a fait prendre conscience de l'importance de la protection des données personnelles, et m'a naturellement amené à me spécialiser dans l'accompagnement des entreprises dans la démarche RGPD, ainsi que DPO externalisé.
+C'est cette aventure qui m'a fait prendre conscience de la problématique complexe de la protection des données personnelles, et m'a amené à accompagner depuis 2018 les entreprises dans la conformité RGPD.
