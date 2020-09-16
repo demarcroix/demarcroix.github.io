@@ -11,4 +11,4 @@ J'y parle (un peu) de RGPD et DPO externalisé, mais surtout de quelques unes de
 
 Dommage que nous n'ayons pas eu le temps de parler de la société **Onlymee** qui devait développer le [brevet DCI](https://register.epo.org/application?number=EP03740553&tab=main) d'identification certaine et sécurisée dans l'économie numérique.
 
-C'est cette aventure qui m'a fait prendre conscience de la problématique complexe de la protection des données personnelles, et m'a amené à accompagner depuis 2018 les entreprises dans la conformité RGPD.
+En effet, c'est cette aventure qui m'a fait prendre conscience de la problématique complexe de la protection des données personnelles, et m'a amené à [accompagner depuis 2018 les entreprises dans la conformité RGPD](../accompagnement-rgpd.md).
