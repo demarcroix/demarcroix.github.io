@@ -13,4 +13,4 @@ Dommage que nous n'ayons pas eu le temps de parler de la société **Onlymee** q
 
 Nous étions sans doute trop en avance sur notre temps il y a une dizaine d'années, car cela reste toujours d'actualité comme l'a confirmé encore récemment la Présidente de l'Union Européenne, Madame von der Leyen, avec le [projet d'identité électronique européenne sécurisée](https://ec.europa.eu/commission/presscorner/detail/fr/SPEECH_20_1655).
 
-En fin de compte, c'est cette aventure entrepreneuriale qui m'a fait prendre conscience de la problématique complexe de la protection des données personnelles, et m'a amené à [accompagner depuis 2018 les entreprises dans la conformité RGPD](../accompagnement-rgpd.md).
+En fin de compte, c'est cette aventure entrepreneuriale qui m'a fait prendre conscience de la problématique complexe de la protection des données personnelles, et m'a amené à [accompagner depuis 2018 les entreprises dans la conformité RGPD](../accompagnement-rgpd).
