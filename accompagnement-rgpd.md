@@ -10,8 +10,8 @@ Depuis le 25 mai 2018, les TPE & PME doivent se conformer au **Règlement Europ�
 * Sensibilisation générale de vos équipes au RGPD ;
 * Formation RGPD des équipes et des responsables de services ;
 * Accompagnement dans la mise en place du RGPD (cartographie, documentation support, plan d’action…) ;
-* **Délégué à la Protection des Données (DPO) externalisé**, avec une certification « DPO Bureau Veritas » depuis février 2018 ;
-* Missions ponctuelles d’accompagnement en avant-vente pour cadrer les enjeux RGPD en amont des projets.
+* **Délégué à la Protection des Données (DPO) externalisé** : nous avons **certification des compétences du DPO agréée CNIL** (organisme certificateur: Bureau Veritas Certification France) ;
+* Missions ponctuelles d’accompagnement pour cadrer les enjeux RGPD en amont des projets.
 
 ![Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données"){: .center-image }
 
