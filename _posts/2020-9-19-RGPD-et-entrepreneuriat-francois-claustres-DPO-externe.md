@@ -3,7 +3,7 @@ layout: post
 title: RGPD et entrepreneuriat
 ---
 
-J'ai eu le plaisir d'être interviewé récemment par [Lilian Alvarez](https://lilianalvarez.com/podcast/) pour sa chaîne Youtube [Le Podcat Tech](https://www.youtube.com/channel/UCt3Yc3ZEch5VkNF5-IUpn0g).
+J'ai eu le plaisir d'être interviewé récemment par [Lilian Alvarez](https://lilianalvarez.com/podcast/) pour sa chaîne Youtube [Le Podcast Tech](https://www.youtube.com/channel/UCt3Yc3ZEch5VkNF5-IUpn0g).
 
 J'y parle (un peu) de RGPD et DPO externalisé, mais surtout de quelques unes de mes aventures entrepreneuriales passées: [JeuxVideo.com](https://www.jeuxvideo.com/) (mention spéciale pour [le blog de Sébastien Pissavy](https://pissavy.com/)), [MadeInDesign.com](https://www.madeindesign.com/) et [AGE Studio](http://www.ageod.com/).
 
