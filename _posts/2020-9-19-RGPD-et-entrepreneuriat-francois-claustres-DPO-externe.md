@@ -7,7 +7,7 @@ J'ai eu le plaisir d'être interviewé récemment par [Lilian Alvarez](https://l
 
 J'y parle (un peu) de RGPD et DPO externalisé, mais surtout de quelques unes de mes aventures entrepreneuriales passées: [JeuxVideo.com](https://www.jeuxvideo.com/) (mention spéciale pour [le blog de Sébastien Pissavy](https://pissavy.com/)), [MadeInDesign.com](https://www.madeindesign.com/) et [AGE Studio](http://www.ageod.com/).
 
-Pour voir et entendre ce (long) Poscast sur Youtube, [c'est par ici](https://www.youtube.com/watch?v=jvsAC_I83VE).
+Vous pouvez visualiser ce (long) Podcast sur [Youtube](https://www.youtube.com/watch?v=jvsAC_I83VE), ou sur [Invidious](https://invidious.fdn.fr/watch?v=jvsAC_I83VE) si vous voulez limiter les traitements de vos données personnelles par Google.
 
 Dommage que nous n'ayons pas eu le temps de parler de la société **Onlymee** qui devait développer le [brevet DCI](https://register.epo.org/application?number=EP03740553&tab=main) d'identification certaine et sécurisée dans l'économie numérique.
 
