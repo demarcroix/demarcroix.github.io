@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Editeurs de logiciels et contractualisation RGPD: à prendre ou à laisser?
+title: "Editeurs de logiciels et contractualisation RGPD : à prendre ou à laisser ?"
 ---
-
 Comme souvent avec le RGPD, tout le monde pense aux **GAFAM** (Google Apple Facebook Amazon Microsoft), mais le déséquilibre entre responsables des traitements et éditeurs de logiciels _data processors_ (sous-traitants) touche aussi de plus petits acteurs qui opèrent dans des niches métiers.
 
 ![Editeurs et DPA : à prendre ou à laisser]({{ site.baseurl }}/images/editeurs-dpa/Contrat-a-prendre-ou-a-laisser.jpg "Editeurs et DPA : à prendre ou à laisser")
