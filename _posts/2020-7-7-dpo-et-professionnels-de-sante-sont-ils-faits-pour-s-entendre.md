@@ -4,6 +4,8 @@ title: DPO et professionnels de santé sont-ils faits pour s’entendre ?
 ---
 Dans une profession ordinale comme celle des médecins, l’arrivée du Règlement Européen sur les Données Personnelles (RGPD) peut apparaître comme une intrusion de la sphère non-médicales dans leur domaine de compétence traditionnel…
 
+![DPO et professionnels de santé sont-ils faits pour s'entendre?]({{ site.baseurl }}/images/rgpd-sante/rgpd-sante.png "DPO et professionnels de santé sont-ils fait pour s'entendre?")
+
 Cela crée parfois chez eux des réactions épidermiques car ils sont déjà bien cadrés par le Code de la Santé Publique, et que le secret médical qui leur est imposé devrait déjà limiter en soi les risques de violations des données de santé de leurs patients.
 
 Sauf que l’évolution des technologies crée de nouveaux enjeux sur ces données de santé : ainsi les fiches papier des patients bien rangées dans des tiroirs ont été peu à peu remplacées par des logiciels métiers de gestion des dossiers patients « on premise » (logiciel installé sur le PC), qui eux-mêmes sont remplacés à leur tour par leur équivalent « SaaS » (_Software as a Service_) avec des données de santé désormais hébergées bien loin du cabinet médical…
