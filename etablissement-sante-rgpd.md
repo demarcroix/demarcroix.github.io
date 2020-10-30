@@ -3,7 +3,7 @@ layout: page
 title: "Expert RGPD - DPO externalisé - Etablissements de santé"
 permalink: /etablissement-sante-rgpd/
 ---
-Depuis l’entrée en vigueur du Règlement Européen sur les Données Personnelles (RGPD/GDPR) le 24 mai 2018, **les établissements de santé doivent prouver à tout moment leur conformité au RGPD**, qu'ils exercent ou non en profession libérale: cabinets médicaux, cabinets d'orthophonie, cabinets d'infirmiers, opticiens, centres d'imagerie médicale, pharmacies, laboratoires de biologie médicale etc.
+Depuis l’entrée en vigueur du Règlement Européen sur les Données Personnelles (RGPD/GDPR) le 24 mai 2018, **les établissements de santé doivent prouver à tout moment leur conformité au RGPD**, qu'ils exercent ou non en profession libérale : cabinets médicaux, cabinets d'orthophonie, cabinets d'infirmiers, opticiens, centres d'imagerie médicale, pharmacies, laboratoires de biologie médicale etc.
 
 Par exemple, ils doivent mettre en place un **registre** recensant tous les traitements de données personnelles, mais aussi les modalités pratiques de l’**information délivrée aux patients** (affichage en salle d'attente, documents papiers, site Web etc.), les actions menées pour garantir la **sécurité des données de santé** (carte de professionnel de santé, politique des mots de passe, messagerie sécurisée pour les échanges entre professionnels de santé etc.), la **sécurisation des prestataires** à qui ils confient des données personnelles (maintenance du logiciel de dossier patients, maintenance des postes de travail informatique, solutions de gestion des dossiers patients hébergée dans le cloud etc.)...
 
