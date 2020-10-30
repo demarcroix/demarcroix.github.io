@@ -11,7 +11,7 @@ Vos clients font appel à vous à propos du RGPD en pensant qu'il s'agit d'une s
 * les actions à mener pour garantir la **sécurité** des données personnelles, y compris les éventuelles **analyses d'impact** (AIPD),
 * l'inventaire des **sous-traitants** pour lesquels il faudra valider les Data Processing Agreements (DPA).
 
-De plus contrairement à l'ancien CIL (Correspondant Informatique et Liberté), le DPO ne doit pas avoir de **conflits d'intérêts** avec le responsable des traitements (ce qui exclut en particulier le conseil juridique habituel d'un organisme) et doit posséder les **compétences requises dans le RGPD** ainsi que les **moyens nécessaires à sa mission**.
+Certains de vos clients auront aussi besoin d'un **Délégué à la Protection des Données (DPO)** : contrairement à l'ancien CIL (Correspondant Informatique et Liberté), le DPO ne doit pas avoir de **conflits d'intérêts** avec le responsable des traitements (ce qui exclut en particulier le conseil juridique habituel d'un organisme) et doit posséder les **compétences requises dans le RGPD** ainsi que les **moyens nécessaires à sa mission**.
 
 Nommer un **DPO externalisé** constitue par conséquent la solution la plus efficace pour vos clients pour gérer à la fois la question de l'indépendance et celle de l'obligation de moyens qui sera décrites formellement dans un contrat.
 
