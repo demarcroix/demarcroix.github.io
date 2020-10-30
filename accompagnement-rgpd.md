@@ -17,7 +17,7 @@ Dans tous les cas, elles doivent pouvoir **rendre compte à tout moment** (_acco
 * **Missions ponctuelles** pour cadrer les enjeux RGPD en amont des projets ;
 * **Délégué à la Protection des Données (DPO) externalisé** avec une **certification des compétences du DPO agréée CNIL depuis 2018** (organisme certificateur: Bureau Veritas Certification France).
 
-Logo BV centré![Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données"){: .center-image }
+![Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données"){: .center-image }
 
 Nous avons des expériences particulières dans le domaine des **technologies de l'information** (exemple: [éditeurs de logiciels](https://claustres.com/editeur-logiciel-rgpd/)), ainsi que sur des **métiers** particuliers (exemple: [établissements de santé](https://claustres.com/etablissement-sante-rgpd/)).
 
