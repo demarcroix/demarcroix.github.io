@@ -9,7 +9,7 @@ Dans tous les cas, elles doivent pouvoir **rendre compte à tout moment** (_acco
 * avoir un **registre** recensant tous les traitements de données personnelles de l'organisme,
 * **informer** les personnes concernées sur tous supports (affichage, site Web etc.),
 * **sécuriser** les données personnelles, éventuellement réaliser des analyses d'impact (AIPD),
-* **contractualiser* avec les sous-traitants des Data Processing Agreements (DPA).
+* **contractualiser** avec les sous-traitants des Data Processing Agreements (DPA).
 
 **Claustres Conseil vous accompagnons à 360° sur le RGPD** :
 * **Sensibilisation** générale de vos équipes au RGPD ;
