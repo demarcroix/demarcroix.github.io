@@ -22,7 +22,7 @@ Dans ces cas, l'éditeur de logiciel a l'**obligation** :
 
 Contrairement à l'ancien CIL (Correspondant Informatique et Liberté), **le DPO ne doit pas être juge et partie dans la définition des traitements de données personnelles** (ce qui exclut par exemple le(s) gérant(s) d'une SARL, et plus généralement les postes de direction) et doit posséder les **compétences requises dans le RGPD** ainsi que les **moyens nécessaires à sa mission**.
 
-Nommer un **DPO externalisé** constitue la solution la plus efficace pour gérer à la fois la question de l'**indépendance** et celle de l'obligation de **moyens* qui sera décrites formellement dans un contrat.
+Nommer un **DPO externalisé** constitue la solution la plus efficace pour gérer à la fois la question de l'**indépendance** et celle de l'obligation de **moyens** qui sera décrites formellement dans un contrat.
 
 Pour s'assurer des compétences requises, nous avons depuis 2018 **une certification des compétences du DPO agréée par la Commission Nationale Informatique et Libertés (CNIL)**, réalisée par Bureau Veritas Certification France.
 
