@@ -28,6 +28,8 @@ Le Groupement de travail de l’article 29 (appelé aussi « G29 ») est un orga
 
 Ainsi, dès avril 2014, [le G29 a publié un avis sur la notion d’intérêt légitime poursuivi par le responsable du traitement des données](https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp217_fr.pdf), qui sert toujours aujourd’hui de référence sur ce sujet.
 
+![Mise en balance]({{ site.baseurl }}/images/interet-legitime/balance-interet-legitime.png "Mise en balance"){: .center-image }
+
 Il y décrit une « **mise en balance** » entre l’intérêt légitime du responsable des traitements d’une part, et les droits et intérêts de la personne concernée de l’autre.
 
 L’intérêt légitime du responsable des traitements doit :
