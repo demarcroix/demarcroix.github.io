@@ -5,6 +5,8 @@ title: DPO es-tu là ?
 
 Le Délégué à la Protection des Données ou Data Protection Officer (DPO) des PME semble être partout et nulle part à la fois…
 
+![DPO es-tu là?]({{ site.baseurl }}/images/dpo-es-tu-la/dpo.jpg "DPO es-tu là?")
+
 Partout, parce que dès lors qu’il est question du Règlement Européen sur les Données Personnelles (RGPD), les organismes qui ont l’obligation d’avoir un DPO affichent fièrement un email dpo@monorganisme.com et parfois même une adresse postale dédiée pour pouvoir le joindre.
 
 Nulle part, parce que dès lors que l’on creuse un peu la question, on découvre souvent derrière ce décor en trompe l’œil un vide sidéral : des personnes carrément injoignables (existent-elles vraiment ?), des personnes désignées mais pas autorisées à être DPO, des personnes prétendument désignées mais qui ne figurent pas sur la liste des DPO à la CNIL…

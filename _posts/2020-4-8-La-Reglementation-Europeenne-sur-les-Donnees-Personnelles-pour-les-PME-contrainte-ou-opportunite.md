@@ -50,4 +50,4 @@ Ce mouvement de fond m’a convaincu en 2017 d’orienter mes activités de cons
 * Délégué à la Protection des Données (DPO) externalisé, avec une certification « DPO Bureau Veritas » depuis février 2018,
 * Missions ponctuelles d’accompagnement en avant-vente pour cadrer les enjeux RGPD en amont des projets.
 
-Pour nous contacter: contact(at)claustres.com
+Pour nous contacter: [contact@claustres.com](mailto:contact@claustres.com)
