@@ -26,7 +26,7 @@ Cela fonctionne aussi bien sur un Webmail (https) qu'avec un client e-mail, comm
 
 Toutefois il présente deux limites : la première limite concerne la diffusion des e-mails en dehors de la plateforme considérée.
 
-En effet, tant que vous envoyez des e-mails à des correspondants qui font partie de la même plateforme e-mail (Gmail, Yahoo! Mail., SFR Mail..) la confidentialité vis-à-vis des tiers est normalement protégée lors de vos échanges.
+En effet, tant que vous envoyez des e-mails à des correspondants qui font partie de la même plateforme e-mail (Gmail, Yahoo! Mail, SFR Mail..) la confidentialité vis-à-vis des tiers est normalement protégée lors de vos échanges.
 
 Par contre, si vous écrivez à quelqu'un qui n'est pas sur la même plateforme d'e-mail, il existe un risque important qu'à l'occasion du transfert d'une plateforme à l'autre, voire de la plateforme de votre correspondant à son client e-mail, les informations transitent en clair sur les réseaux.
 
@@ -44,7 +44,7 @@ C'est ce qu'il est possible de faire avec le protocole S/MIME, standardisé en 1
 
 S/MIME est une solutions de cryptage asymétrique standardisées qui repose sur le couple clé privée/clé publique: la clé privée de l'émetteur de l'e-mail permet de signer son message pour l'authentifier, le contenu du message envoyé est crypté quant à lui avec la clé publique du destinataire.
 
-![Cryptage et signature S/MIME]({{ site.baseurl }}/images/SMIME/signatue-cryptage-email-smime "Signature et cryptage des e-mails avec SMIME"){: .center-image }
+![Cryptage et signature S/MIME]({{ site.baseurl }}/images/SMIME/signature-cryptage-email-smime.png "Signature et cryptage des e-mails avec SMIME"){: .center-image }
 
 Le problème est que  plupart des Webmails ne proposent pas S/MIME en standard, voire ne le proposent pas du tout!
 
