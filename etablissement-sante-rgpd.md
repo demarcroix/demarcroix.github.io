@@ -24,6 +24,7 @@ Parce que **nous connaissons les problématiques spécifiques à votre métier**
 * **Accompagnement** dans la mise en place du RGPD (cartographie, documentation support, plan d’action…) ;
 * **Délégué à la Protection des Données (DPO) externalisé** de votre établissement de santé.
 
-N’hésitez pas à nous contacter si vous êtes sur Lyon, Grenoble, Chambéry, Annecy…
-* email: [contact@claustres.com](mailto:contact@claustres.com)
-* téléphone: [06 60 08 48 24](tel:+33660084824)
+N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Chambéry, Annecy, Valence…
+* Paris : [01 89 16 54 96](tel:+33189165496)
+* Sud-Est : [04 76 18 59 76](tel:+33476185976)
+* [contact@claustres.com](mailto:contact@claustres.com)
