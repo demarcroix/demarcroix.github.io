@@ -27,5 +27,5 @@ Quelques **références clients** : société dans le domaine des logiciels déd
 
 N’hésitez pas à nous contacter si vous êtes sur Lyon, Grenoble, Chambéry, Annecy, Valence, Paris…
 * Paris : [01 89 16 54 96](tel:+33189165496)
-* Sud-Est : [04 76 18 59 76](tél:+33476185976)
+* Sud-Est : [04 76 18 59 76](tel:+33476185976)
 * [contact@claustres.com](mailto:contact@claustres.com)
