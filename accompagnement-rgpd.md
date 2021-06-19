@@ -11,7 +11,7 @@ Dans tous les cas, elles doivent pouvoir **rendre compte à tout moment** (_acco
 * **sécuriser** les données personnelles, éventuellement réaliser des analyses d'impact (AIPD),
 * **contractualiser** avec les sous-traitants des Data Processing Agreements (DPA).
 
-**Claustres Conseil vous accompagnons à 360° sur le RGPD** :
+**Claustres Conseil vous accompagne dans votre démarche RGPD** :
 * **Sensibilisation** générale de vos équipes au RGPD ;
 * **Accompagnement** des TPE et PME dans la mise en place du RGPD (cartographie, documentation support, plan d’action etc.) ;
 * **Missions ponctuelles** pour cadrer les enjeux RGPD en amont des projets ;
@@ -26,5 +26,6 @@ Nous sommes aussi **partenaire auditeur RGPD** de [cabinets d'expertise comptabl
 Quelques **références clients** : société dans le domaine des logiciels dédiés aux centres d’imagerie médicale (DPO externalisé), franchise nationale de courtiers en crédit avec formation du réseau de franchisés à la RGPD, réseau national de courtiers en assurance, société de logistique spécialisée dans les projets sensibles, centre médical de chirurgiens (DPO externalisé), société de e-learning dans le domaine médical…
 
 N’hésitez pas à nous contacter si vous êtes sur Lyon, Grenoble, Chambéry, Annecy, Valence, Paris…
-* email: [contact@claustres.com](mailto:contact@claustres.com)
-* téléphone: [06 60 08 48 24](tel:+33660084824)
+* Paris : [01 89 16 54 96](tel:+33189165496)
+* Sud-Est : [04 76 18 59 76](tél:+33476185976)
+* [contact@claustres.com](mailto:contact@claustres.com)
