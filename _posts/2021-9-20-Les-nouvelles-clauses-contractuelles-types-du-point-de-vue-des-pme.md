@@ -31,7 +31,7 @@ Et comme si cela ne suffisait pas, certaines parties rajoutent plusieurs choix o
 
 Heureusement il est possible de supprimer les modules qui ne concernent pas les parties signataires : pour travailler avec ces CCT, il faudra en pratique les "éclater" en 4 version distinctes, et on peut par conséquent légitimement se demander si ça n'aurait pas été plus simple de les proposer directement sous cette forme sans ces fameux modules ?
 
-### Sur le fond : vous devez parfaitement connaitre votre importateur de données et son contexte local
+### Sur le fond: vous devez parfaitement connaître votre importateur de données et son contexte local
 
 Dans l'Annexe II, une liste de mesures de sécurisation des transferts de données personnelles proposée à titre d'exemple occupe une page entière, uniquement pour les intitulés et non les mesures en elles-mêmes... Quant aux sous-traitants ultérieurs, quelle PME aura les moyens pour faire un audit sur place afin de  s'assurer que tout est conforme ?
 
