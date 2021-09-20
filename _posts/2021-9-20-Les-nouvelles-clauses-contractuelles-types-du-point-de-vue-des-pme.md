@@ -21,7 +21,7 @@ Il faut reconnaître que les nouvelles CCT lèvent plusieurs manques/ambiguïté
 * Une nouvelle annexe est dédiée spécifiquement aux mesures techniques et organisationnelles mises en œuvre pour garantir la sécurité des données (sauf pour les transferts de sous-traitant à responsable des traitements) ;
 * Une nouvelle annexe liste et décrit les sous-traitants ultérieurs, dans les cas de transfert de responsable du traitement à sous-traitant ou de sous-traitant à sous-traitant.
 
-Par contre, tout cela figure dans un même document, qui inclut des choix possibles selon les cas 4 types de modules qui correspondent aux 4 combinaisons possibles entre responsable du traitement (RT) et sous-traitants (ST) :
+Par contre tout cela figure dans un même document, qui inclut des choix possibles selon 4 types de modules qui correspondent aux 4 combinaisons possibles entre responsable du traitement et sous-traitant :
 * MODULE 1 : transfert de responsable du traitement à responsable du traitement ;
 * MODULE 2 : transfert de responsable du traitement à sous-traitant ;
 * MODULE 3 : transfert de sous-traitant à sous-traitant ;
