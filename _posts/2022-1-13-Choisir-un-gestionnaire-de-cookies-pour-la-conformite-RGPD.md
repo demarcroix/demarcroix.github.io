@@ -34,7 +34,7 @@ Contrairement aux solutions auto-hébergées, les solutions SaaS sont censées �
 
 CookieBot est l’une des rares solutions SaaS qui reste conforme au RGPD dans sa version gratuite, malgré quelques limitations : 1 domaine avec moins de 100 pages Web, pas de bannières personnalisées, pas de multilingue etc.
 
-Il s’adresse semble-t-il principalement aux petits sites Web (d’où l’offre gratuite) et aux agences Web.
+Elle s’adresse semble-t-il principalement aux petits sites Web (d’où l’offre gratuite) et aux agences Web.
 
 ### Axeptio : SaaS payant mais pas triste !
 
