@@ -13,7 +13,7 @@ Or, en pratique **il ne suffit pas de sensibiliser les responsables de service a
 
 Ce n'est pas du manque de motivation ou de la mauvaise volonté de leur part, c'est qu'en règle générale **ces sachants ne maîtrisent pas suffisamment le RGPD pour pouvoir décrire correctement les traitements**, et remplir par conséquent les informations requises dans le logiciel.
 
-![Responsables de services et RGPD]({{ site.baseurl }}/responsable-service-rgpd "Responsables de services et RGPD"){: .center-image }
+![Responsables de services et RGPD]({{ site.baseurl }}/responsable-service-rgpd.png "Responsables de services et RGPD"){: .center-image }
 
 Par exemple, ils vont  uniquement décrire les outils logiciels qu'ils utilisent au quotidien comme étant des traitements de données personnelles, alors que ce sont les **traitements de données personnelles regroupés par finalités**, réalisés le cas échéant avec un ou des outils logiciels, qu'il faut renseigner dans les registres des traitements.
 
