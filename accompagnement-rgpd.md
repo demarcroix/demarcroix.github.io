@@ -11,10 +11,11 @@ Dans tous les cas, elles doivent pouvoir **rendre compte à tout moment** (_acco
 * **sécuriser** les données personnelles, éventuellement réaliser des analyses d'impact (AIPD),
 * **contractualiser** avec les sous-traitants des Data Processing Agreements (DPA).
 
-**Claustres Conseil vous accompagne dans votre démarche RGPD** :
+**De la TPE à l'ETI, Claustres Conseil vous apporte son expertise RGPD :** :
 * **Sensibilisation** générale de vos équipes au RGPD ;
-* **Accompagnement** des TPE et PME dans la mise en place du RGPD (cartographie, documentation support, plan d’action etc.) ;
-* **Missions ponctuelles** pour cadrer les enjeux RGPD en amont des projets ;
+* **Accompagnement des TPE et petites PME dans la démarche RGPD** (cartographie, documentation support, plan d’action etc.) ;
+* **Accompagnement des DPO des PME et ETI dans la mise en place opérationnelle du RGPD** ([méthodologie + logiciel RGPD](https://claustres.com/accompagnement-dpo-demarche-rgpd)) ;
+* **Conseils en amont des projets innovants** pour cadrer les enjeux RGPD ;
 * **Délégué à la Protection des Données (DPO) externalisé** avec une **certification des compétences du DPO agréée CNIL depuis 2018** (organisme certificateur: Bureau Veritas Certification France).
 
 ![Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données"){: .center-image }
