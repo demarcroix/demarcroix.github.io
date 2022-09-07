@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Expert RGPD - DPO externalisé - Grenoble Lyon Chambéry"
+title: "Expert RGPD - DPO externalisé - Grenoble Lyon Paris"
 permalink: /accompagnement-rgpd/
 ---
 Depuis le 25 mai 2018, les TPE & PME doivent se conformer au **Règlement Européen sur les Données Personnelles (RGPD/GDPR)**, avec des degrés variables d’implications selon leur cœur de métier.
