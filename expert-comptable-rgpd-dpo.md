@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Partenaire auditeur RGPD des Experts-Comptables - Grenoble Lyon Paris"
+title: "Partenaire auditeur RGPD des Experts-Comptables - Lyon Paris Grenoble"
 permalink: /expert-comptable-rgpd-dpo/
 ---
 Vous êtes un cabinet d'expertise comptable et vous cherchez un partenaire pour mener à bien les **audits RGPD** de vos clients, voire assurer pour eux le rôle de **DPO externalisé**?
