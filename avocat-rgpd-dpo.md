@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Partenaire auditeur RGPD des cabinets d'avocats - Grenoble Lyon Paris"
+title: "Partenaire auditeur RGPD des cabinets d'avocats - Paris Lyon Grenoble"
 permalink: /avocat-rgpd-dpo/
 ---
 Cabinets d'avocats, conseils juridiques, vous cherchez un partenaire pour mener à bien les **audits RGPD de vos clients**, voire assurer pour eux le rôle de **DPO externalisé**?
