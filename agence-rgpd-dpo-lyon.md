@@ -3,7 +3,7 @@ layout: page
 title: "Claustres Conseil - Agence RGPD - DPO externe - Lyon"
 permalink: /agence-rgpd-dpo-lyon/
 ---
-L'agence RGPD de Lyon est située en plein coeur de Lyon, à deux pas de l'Hôtel de Ville, de la place des Terreaux et de l'Opéra.
+L'agence RGPD de Lyon est située à deux pas de l'Hôtel de Ville, de la place des Terreaux et de l'Opéra.
 
 ![Agence RGPD - DPO externa - Lyon]({{ site.baseurl }}/images/agence-rgpd-dpo/lyon.jpg "Agence RGPD - DPO externe - Lyon"){: .center-image }
 
