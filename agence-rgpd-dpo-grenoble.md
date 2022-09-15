@@ -5,7 +5,7 @@ permalink: /agence-rgpd-dpo-grenoble/
 ---
 L'agence RGPD de Grenoble est située au coeur des Alpes et de la Silicon Valley grenobloise (Inovallée).
 
-(image photo)
+![Agence RGPD - DPO externa - Grenoble]({{ site.baseurl }}/images/agence-rgpd-dpo/grenoble.jpg "Agence RGPD - DPO externe - Grenoble"){: .center-image }
 
 Nous accompagnons nos client dans la démarche RGPD, et le cas échéant sur des missions de DPO externalisé.
 
@@ -20,5 +20,3 @@ FRANCE
 E-mail: [grenoble@clautres.com](mailto:grenoble@claustres.com)
 
 Téléphone: [04 76 18 59 76](tel:+33476185976)
-
-(image plan)
