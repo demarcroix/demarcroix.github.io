@@ -15,7 +15,7 @@ Nos coordonnées:
 
 153 avenue de l'Eygala<br>
 38700 CORENC<br>
-FRANCE
+France
 
 E-mail: [grenoble@claustres.com](mailto:grenoble@claustres.com)
 
