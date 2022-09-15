@@ -20,6 +20,7 @@ Par exemple, ils vont  uniquement décrire les outils logiciels qu'ils utilisent
 Nous proposons aux DPO une **méthodologie de mise en place opérationnelle du RGPD**, basée sur le principe des **interviews d'audits**, où les sachants sont accompagnés dans la description des traitements qu'ils mettent en œuvre, et où le **logiciel RGPD** est un outil qui permet de faciliter ces interviews d'audits et de renseigner et documenter les traitements correctement décrits.
 
 N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Chambéry, Annecy, Valence…
-* Paris : [01 89 16 54 96](tel:+33189165496)
-* Sud-Est : [04 76 18 59 76](tel:+33476185976)
+* Agence de [Paris]({{ site.baseurl }}/agence-rgpd-dpo-paris) : [01 89 16 54 96](tel:+33189165496)
+* Agence de [Lyon]({{ site.baseurl }}/agence-rgpd-dpo-lyon) : [04 28 29 08 24](tel:+33428290824)
+* Agence de [Grenoble]({{ site.baseurl }}/agence-rgpd-dpo-grenoble) : [04 76 18 59 76](tel:+33476185976)
 * [contact@claustres.com](mailto:contact@claustres.com)
