@@ -27,7 +27,7 @@ Nous sommes aussi **partenaire auditeur RGPD** de [cabinets d'expertise comptabl
 Quelques **références clients** : société dans le domaine des logiciels dédiés aux centres d’imagerie médicale (DPO externalisé), franchise nationale de courtiers en crédit avec formation du réseau de franchisés à la RGPD, réseau national de courtiers en assurance, société de logistique spécialisée dans les projets sensibles, centre médical de chirurgiens (DPO externalisé), société de e-learning dans le domaine médical…
 
 N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Chambéry, Annecy, Valence, Clermont-Ferrand, Marseille…
-* [Paris]({{ site.baseurl }}/agence-rgpd-dpo-paris) : [01 89 16 54 96](tel:+33189165496)
-* [Lyon]({{ site.baseurl }}/agence-rgpd-dpo-lyon) : [04 28 29 08 24](tel:+33428290824)
-* [Grenoble]({{ site.baseurl }}/agence-rgpd-dpo-grenoble) : [04 76 18 59 76](tel:+33476185976)
+* Agence de [Paris]({{ site.baseurl }}/agence-rgpd-dpo-paris) : [01 89 16 54 96](tel:+33189165496)
+* Agence de [Lyon]({{ site.baseurl }}/agence-rgpd-dpo-lyon) : [04 28 29 08 24](tel:+33428290824)
+* Agence de [Grenoble]({{ site.baseurl }}/agence-rgpd-dpo-grenoble) : [04 76 18 59 76](tel:+33476185976)
 * [contact@claustres.com](mailto:contact@claustres.com)
