@@ -13,10 +13,10 @@ Nos clients sont des éditeurs de logiciels, des acteurs du domaine de la santé
 
 Nos coordonnées:
 
-153 avenue de l'Eygala
+'153 avenue de l'Eygala
 38700 CORENC
-FRANCE
+FRANCE'
 
-E-mail: [grenoble@clautres.com](mailto:grenoble@claustres.com)
+E-mail: [grenoble@claustres.com](mailto:grenoble@claustres.com)
 
 Téléphone: [04 76 18 59 76](tel:+33476185976)
