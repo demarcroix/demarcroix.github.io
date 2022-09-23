@@ -13,7 +13,7 @@ Nos clients sont des éditeurs de logiciels, des acteurs du domaine de la santé
 
 Nos coordonnées:
 
-128 rue de la Boétie<br>
+128 rue La Boétie<br>
 75008 PARIS<br>
 France
 
