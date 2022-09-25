@@ -91,4 +91,4 @@ exclude:
 
 # Gestion de la Pagination
 paginate: 5
-paginate_path: "/agence-rgpd-dpo-externe-page:num/"
+# paginate_path: "/agence-rgpd-dpo-externe-page:num/"
