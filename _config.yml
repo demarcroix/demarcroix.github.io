@@ -90,5 +90,5 @@ exclude:
   - CNAME
 
 # Gestion de la Pagination
-paginate: 7
+paginate: 5
 paginate_path: "/agence-rgpd-dpo-externe-page:num/"
