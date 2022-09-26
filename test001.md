@@ -11,6 +11,10 @@ permalink: /test/
 
           <div class="site-info">
             <strong>Accompagnement dans la démarche RGPD:</strong>
+            <ul>
+              <li>Accompagnement des <strong>TPE et PME et ETI</strong> dans la démarche RGPD, <a href="https://claustres.com/accompagnement-dpo-demarche-rgpd">y compris le cas échéant leur DPO</a>: cartographie, documentation support, plan d’action etc.</li>
+              <li>Conseils en amont des <strong>projets innovants</strong> (intelligence artifcielle, big data, cloud…)</li>
+            </ul>
           </div>
 
         </header>
