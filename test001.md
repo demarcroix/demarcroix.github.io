@@ -4,9 +4,16 @@ title: "TEST"
 permalink: /test/
 ---
 <div>
-![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jog "Accompagnement dans la démarche RGPD")
-![Métiers RGPD]({{ site.baseurl }}/images/metiers-rgpd.jog "Métiers RGPD")
-![Partenaires RGPD]({{ site.baseurl }}/images/partenaires-rgpd.jog "Partenaires RGPD")
+  <div>
+    ![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jog "Accompagnement dans la démarche RGPD")
+    Accompagnement dans la démarche RGPD - DPO externalisé
+  </div>
+  <div>
+    ![Métiers RGPD]({{ site.baseurl }}/images/metiers-rgpd.jog "Métiers RGPD")
+  </div>
+  <div>
+    ![Partenaires RGPD]({{ site.baseurl }}/images/partenaires-rgpd.jog "Partenaires RGPD")
+  </div>
 </div>
 
 N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Chambéry, Annecy, Valence…
