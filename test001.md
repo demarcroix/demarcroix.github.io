@@ -8,12 +8,12 @@ Blabla
 
 <table Height=600>
     <tr>
-      <td valign=top width=200><img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/></td>
-      <td valign=top>Accompagnement dans la démarche RGPD - DPO externalisé. blblba blabla bblbla. blibli bli</td>
+      <td width=200><img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/></td>
+      <td style="vertical-align:top;>Accompagnement dans la démarche RGPD - DPO externalisé. blblba blabla bblbla. blibli bli</td>
     </tr>
     <tr>
-      <td valign=top width=200><img src="/images/metiers-rgpd.jpg" alt="Métiers RGPD" title="Métiers RGPD" /></td>
-      <td>Expertise RGPD sur des métiers :<br /> Etablissements de santé, éditeurs de logiciel, e-commerce…<br /> (Liste non exhaustive!)</td>
+      <td width=200 style="vertical-align:top;><img src="/images/metiers-rgpd.jpg" alt="Métiers RGPD" title="Métiers RGPD" /></td>
+      <td style="vertical-align:top;>Expertise RGPD sur des métiers :<br /> Etablissements de santé, éditeurs de logiciel, e-commerce…<br /> (Liste non exhaustive!)</td>
     </tr>
     <tr>
       <td valign=top width=200><img src="/images/partenaires-rgpd.jpg" alt="Partenaires RGPD" title="Partenaires RGPD" /></td>
