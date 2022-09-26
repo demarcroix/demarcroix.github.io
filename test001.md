@@ -9,15 +9,28 @@ Blabla
 <table>
     <tr>
       <td width=200><img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/></td>
-      <td style="vertical-align:top;">Accompagnement dans la démarche RGPD - DPO externalisé.<br> blblba blabla bblbla. blibli bli</td>
+      <td style="vertical-align:top;"><strong>Accompagnement dans la démarche RGPD - DPO externalisé</strong><br> <ul>
+  <li><strong>Sensibilisation</strong> générale de vos équipes au RGPD ;</li>
+  <li>Accompagnement des <strong>TPE et petites PME</strong> dans la démarche RGPD (cartographie, documentation support, plan d’action etc.) ;</li>
+  <li>Accompagnement des <strong>DPO des PME et ETI</strong> dans la mise en place opérationnelle du RGPD (<a href="https://claustres.com/accompagnement-dpo-demarche-rgpd">méthodologie + logiciel RGPD</a>) ;</li>
+  <li>Conseils en amont des <strong>projets innovants</strong> (intelligence artifcielle, big data, cloud…) pour cadrer les enjeux RGPD ;</li>
+  <li><strong>Délégué à la Protection des Données (DPO) externalisé</strong> avec une <strong>certification des compétences du DPO agréée CNIL depuis 2018</strong> (organisme certificateur: Bureau Veritas Certification France).</li>
+</ul></td>
     </tr>
     <tr>
       <td width=200><img src="/images/metiers-rgpd.jpg" alt="Métiers RGPD" title="Métiers RGPD" /></td>
-      <td style="vertical-align:top;"><strong>Expertise RGPD métiers</strong>, notamment:<br /><ul><li>Technologies de l’information (exemple: <a href="https://claustres.com/editeur-logiciel-rgpd/">éditeurs de logiciels</a>)</li>Santé (exemple: <a href="https://claustres.com/etablissement-sante-rgpd/">établissements de santé</a>))</li></ul></td>
+      <td style="vertical-align:top;"><strong>Expertise RGPD métiers</strong>, notamment:<br /><ul><li>Technologies de l’information (exemple: <a href="https://claustres.com/editeur-logiciel-rgpd/">éditeurs de logiciels</a>)</li><li>Santé (exemple: <a href="https://claustres.com/etablissement-sante-rgpd/">établissements de santé</a>))</li></ul></td>
     </tr>
     <tr>
       <td width=200><img src="/images/partenaires-rgpd.jpg" alt="Partenaires RGPD" title="Partenaires RGPD" /></td>
-      <td style="vertical-align:top;">Partenaire RGPD des avocats et experts-comptables<br /> Nous apportons notre expertise dans l’identification des traitements <br /> blabla</td>
+      <td style="vertical-align:top;"><strong>Partenaire RGPD des avocats et experts-comptables</strong><br /> Nous apportons notre expertise dans l’audit et la formalisation règlementaire des traitements de données personnelles chez leurs clients:<br>
+      <ul>
+        <li>avoir un <strong>registre</strong> recensant tous les traitements de données personnelles de l’organisme,</li>
+        <li><strong>informer</strong> les personnes concernées sur tous supports (affichage, site Web etc.),</li>
+        <li><strong>sécuriser</strong> les données personnelles, éventuellement réaliser des analyses d’impact (AIPD),</li>
+        <li><strong>contractualiser</strong> avec les sous-traitants des Data Processing Agreements (DPA).</li>
+      </ul>
+      </td>
     </tr>
 </table>
 
