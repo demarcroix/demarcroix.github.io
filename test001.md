@@ -6,17 +6,17 @@ permalink: /test/
 
 Blabla
 
-<table Height=600>
+<table>
     <tr>
       <td width=200><img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/></td>
-      <td style="vertical-align:top;>Accompagnement dans la démarche RGPD - DPO externalisé. blblba blabla bblbla. blibli bli</td>
+      <td style="vertical-align:top;">Accompagnement dans la démarche RGPD - DPO externalisé. blblba blabla bblbla. blibli bli</td>
     </tr>
     <tr>
-      <td width=200 style="vertical-align:top;><img src="/images/metiers-rgpd.jpg" alt="Métiers RGPD" title="Métiers RGPD" /></td>
-      <td style="vertical-align:top;>Expertise RGPD sur des métiers :<br /> Etablissements de santé, éditeurs de logiciel, e-commerce…<br /> (Liste non exhaustive!)</td>
+      <td width=200 style="vertical-align:top;"><img src="/images/metiers-rgpd.jpg" alt="Métiers RGPD" title="Métiers RGPD" /></td>
+      <td style="vertical-align:top;">Expertise RGPD sur des métiers :<br /> Etablissements de santé, éditeurs de logiciel, e-commerce…<br /> (Liste non exhaustive!)</td>
     </tr>
     <tr>
-      <td valign=top width=200><img src="/images/partenaires-rgpd.jpg" alt="Partenaires RGPD" title="Partenaires RGPD" /></td>
+      <td width=200><img src="/images/partenaires-rgpd.jpg" alt="Partenaires RGPD" title="Partenaires RGPD" /></td>
       <td>Partenaire RGPD des avocats et experts-comptables<br /> Nous apportons notre expertise dans l’identification des traitements <br /> blabla</td>
     </tr>
 </table>
