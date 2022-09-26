@@ -6,7 +6,7 @@ permalink: /test/
 
 Blabla
 
-<table>
+<table Height=600>
     <tr>
       <td valign=top width=200><img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/></td>
       <td valign=top>Accompagnement dans la démarche RGPD - DPO externalisé. blblba blabla bblbla. blibli bli</td>
