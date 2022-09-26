@@ -4,41 +4,34 @@ title: "TEST"
 permalink: /test/
 ---
 
-Blabla
-
 <table>
     <tr>
       <td width=200><img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/></td>
-      <td style="vertical-align:top;"><strong>Accompagnement dans la démarche RGPD - DPO externalisé</strong><br>
+      <td style="vertical-align:top;"><strong>Accompagnement dans la démarche RGPD:</strong><br>
       <ul>
-        <li>Accompagnement des <strong>TPE et PME et ETI</strong> dans la démarche RGPD ,<a href="https://claustres.com/accompagnement-dpo-demarche-rgpd">y compris le cas échéant leur DPO</a>: cartographie, documentation support, plan d’action etc.</li>
+        <li>Accompagnement des <strong>TPE et PME et ETI</strong> dans la démarche RGPD, <a href="https://claustres.com/accompagnement-dpo-demarche-rgpd">y compris le cas échéant leur DPO</a>: cartographie, documentation support, plan d’action etc.</li>
         <li>Conseils en amont des <strong>projets innovants</strong> (intelligence artifcielle, big data, cloud…)</li>
       </ul>
       </td>
     </tr>
     <tr>
       <td width=200><img src="/images/metiers-rgpd.jpg" alt="Métiers RGPD" title="Métiers RGPD" /></td>
-      <td style="vertical-align:top;"><strong>Expertise RGPD métiers</strong>, notamment:<br /><ul><li>Technologies de l’information (exemple: <a href="https://claustres.com/editeur-logiciel-rgpd/">éditeurs de logiciels</a>)</li><li>Santé (exemple: <a href="https://claustres.com/etablissement-sante-rgpd/">établissements de santé</a>))</li></ul></td>
+      <td style="vertical-align:top;"><strong>Expertises RGPD métiers</strong>, notamment:<br /><ul><li>Technologies de l’information (exemple: <a href="https://claustres.com/editeur-logiciel-rgpd/">éditeurs de logiciels</a>)</li><li>Santé (exemple: <a href="https://claustres.com/etablissement-sante-rgpd/">établissements de santé</a>)</li>
+      <li>Mais aussi: e-commerce, e-learning, courtage, logistique...
+      </ul></td>
     </tr>
     <tr>
       <td width=200><img src="/images/partenaires-rgpd.jpg" alt="Partenaires RGPD" title="Partenaires RGPD" /></td>
-      <td style="vertical-align:top;"><strong>Partenaire RGPD des avocats et experts-comptables</strong><br /> Nous apportons notre expertise dans l’audit et la formalisation règlementaire des traitements de données personnelles chez leurs clients:<br>
-      <ul>
-        <li>avoir un <strong>registre</strong> recensant tous les traitements de données personnelles de l’organisme,</li>
-        <li><strong>informer</strong> les personnes concernées sur tous supports (affichage, site Web etc.),</li>
-        <li><strong>sécuriser</strong> les données personnelles, éventuellement réaliser des analyses d’impact (AIPD),</li>
-        <li><strong>contractualiser</strong> avec les sous-traitants des Data Processing Agreements (DPA).</li>
-      </ul>
+      <td style="vertical-align:top;"><strong>Partenaire RGPD des avocats et experts-comptables</strong><br /> Nous apportons notre expertise dans l’audit et la formalisation règlementaire des traitements de données personnelles chez leurs clients: registre des traitements, mentions obligatoires d'information, bonnes pratiques de sécurisation, contractualisation avec les sous-traitants (DPA) etc.
       </td>
     </tr>
     <tr>
       <td width=200><img src="/images/BV_Certification_Certification-DPO-miniV2.jpg" alt="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" title="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" class="center-image" /></td>
-      <td style="vertical-align:top;"><strong>Délégué à la Protection des Données (DPO) externalisé</strong>
+      <td style="vertical-align:top;"><strong>Délégué à la Protection des Données (DPO) externalisé</strong><br>
       Nos experts RGPD ont une certification des compétences du DPO agréée CNIL (organisme certificateur: Bureau Veritas Certification France)
       </td>
     </tr>
 </table>
-
 
 N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Chambéry, Annecy, Valence…
 * Agence de [Paris]({{ site.baseurl }}/agence-rgpd-dpo-paris) : [01 89 16 54 96](tel:+33189165496)
