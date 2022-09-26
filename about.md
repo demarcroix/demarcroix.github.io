@@ -26,11 +26,18 @@ Le site Web CLAUSTRES.COM a pour objet de fournir des informations sur le Règle
 
 ### Protection des données personnelles
 
-Le Responsable de Traitements de présent site Web ne collecte aucune donnée personnelle pour son propre compte.
+Le présent site Web ne collecte des données personnelles que pour la finalité légitime de disposer de statistiques anonymisées.
 
-Néanmoins l'hébergeur GitHub Inc. peut être amené à traiter des données personnelles pour ses propres finalités, notamment pour les cas où il considère qu'il s'agit de son intérêt légitime: par exemples, pour respecter ses obligations légales de conformité, ses obligations de sécurisation, ou pour assurer disponibilité, intégrité, confidentialité et continuité de services offerts par l'hébergeur.
+La solution utilisée est [ABLA.IO](https://https://abla.io/) dont l'implémentation est conforme aux [recommandations de la CNIL](https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies-solutions-pour-les-outils-de-mesure-daudience) pour l'exemption de consentement préalable. Elle n'utilise pas de cookies, mais récupère le minimum de données personnelles bécessaires (notamment: adresse IP des utilisateurs et numéro d'identification du terminal) qui sont immédiatement anonymisées après leur collecte.
 
-Voir la [collecte des données personnelles de GitHub](https://help.github.com/en/github/site-policy/github-privacy-statement#what-information-github-collects) (anglais)
+La société ASTRA PORTA SARL qui édite la solution ABLA.IO héberge ses serveurs dans l'UE/EEE (en France) chez OVH et SCALEWAY).
+
+L'hébergeur GITHUB Inc. peut être amené à traiter des données personnelles pour ses propres finalités, notamment pour les cas où il considère qu'il s'agit de son intérêt légitime: par exemples, pour respecter ses obligations légales de conformité, ses obligations de sécurisation, ou pour assurer disponibilité, intégrité, confidentialité et continuité de services offerts par l'hébergeur.
+
+Voir la [collecte des données personnelles de GITHUB](https://help.github.com/en/github/site-policy/github-privacy-statement#what-information-github-collects) (anglais)
+
+Il est important de souligner que si le site Web est hébergé dans un pays tiers de l'UE/EEE, les données personnelles envoyées à ABLA.IO pour réaliser les statistiques anonymes ne transitent pas par des pays tiers quand les pages du site Web sont consultées dans l'UE/EEE.
+
 
 ### Propriété intellectuelle et contrefaçons
 
