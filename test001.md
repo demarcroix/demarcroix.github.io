@@ -5,14 +5,14 @@ permalink: /test/
 ---
 <div>
   <div>
-    ![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jog "Accompagnement dans la démarche RGPD")
+    ![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jpg "Accompagnement dans la démarche RGPD")
     Accompagnement dans la démarche RGPD - DPO externalisé
   </div>
   <div>
-    ![Métiers RGPD]({{ site.baseurl }}/images/metiers-rgpd.jog "Métiers RGPD")
+    ![Métiers RGPD]({{ site.baseurl }}/images/metiers-rgpd.jpg "Métiers RGPD")
   </div>
   <div>
-    ![Partenaires RGPD]({{ site.baseurl }}/images/partenaires-rgpd.jog "Partenaires RGPD")
+    ![Partenaires RGPD]({{ site.baseurl }}/images/partenaires-rgpd.jpg "Partenaires RGPD")
   </div>
 </div>
 
