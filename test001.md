@@ -34,14 +34,14 @@ permalink: /test/
           <header class="masthead clearfix">
             <img src="/images/partenaires-rgpd.jpg" alt="Partenaires RGPD" title="Partenaires RGPD" />
             <div class="site-info">
-              <strong>Partenaire RGPD des avocats et experts-comptables</strong><br /> Nous apportons notre expertise dans l’audit et la formalisation règlementaire des traitements de données personnelles chez leurs clients: registre des traitements, mentions obligatoires d'information, bonnes pratiques de sécurisation, contractualisation avec les sous-traitants (DPA) etc.
+              <strong>Partenaire auditeur RGPD des avocats et experts-comptables</strong><br /> Nous apportons notre expertise dans l’audit et la formalisation règlementaire des traitements de données personnelles chez les clients des <a href="https://claustres.com/expert-comptable-rgpd-dpo/">cabinets d’expertise comptable</a> et des <a href="https://claustres.com/avocat-rgpd-dpo/">cabinets d’avocats</a>: registre des traitements, mentions obligatoires d'information, bonnes pratiques de sécurisation, contractualisation avec les sous-traitants (DPA) etc.
             </div>
           </header>
         </div>
 
          <div class="container">
            <header class="masthead clearfix">
-             <img src="/images/BV_Certification_Certification-DPO-miniV2.jpg" alt="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" title="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" class="center-image" />
+             <img src="/images/BV_Certification_Certification-DPO-miniV2.jpg" alt="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" title="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" />
              <div class="site-info">
               <strong>Délégué à la Protection des Données (DPO) externalisé</strong><br>
               Nos experts RGPD ont une certification des compétences du DPO agréée CNIL (organisme certificateur: Bureau Veritas Certification France)
