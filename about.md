@@ -28,7 +28,7 @@ Le site Web CLAUSTRES.COM a pour objet de fournir des informations sur le Règle
 
 Le présent site Web ne collecte des données personnelles que pour la finalité légitime de disposer de statistiques anonymisées.
 
-La solution utilisée est [ABLA.IO](https://abla.io/) dont l'implémentation est conforme aux [recommandations de la CNIL](https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies-solutions-pour-les-outils-de-mesure-daudience) pour l'exemption de consentement préalable. Elle n'utilise pas de cookies, mais récupère le minimum de données personnelles nécessaires, notamment les adresses IP des utilisateurs immédiatement anonymisées et la localisation limitée au pays.
+La solution utilisée est [ABLA.IO](https://abla.io/) dont l'implémentation est conforme aux [recommandations de la CNIL](https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies-solutions-pour-les-outils-de-mesure-daudience) pour l'exemption de consentement préalable. Elle n'utilise pas de cookies, mais récupère le minimum de données personnelles nécessaires, notamment les adresses IP des utilisateurs immédiatement anonymisées, la localisation limitée au pays, le site Web d'origine ("referer"), le type de navigateur Web (pas la version), la langue configurée sur le navigateur, le système d'exploitation du navigateur (Windows, Android...), le type de terminal (Desktop, Laptop, Smartphone...) et la taille d'écran.
 
 La société française ASTRA PORTA SARL, qui édite la solution ABLA.IO, héberge ses serveurs dans l'UE/EEE (en France) chez OVH et SCALEWAY.
 
