@@ -4,6 +4,24 @@ title: "TEST"
 permalink: /test/
 ---
 
+<div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/" class="site-avatar"><img src="/images/LogoCCI.png" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/">Claustres Conseil</a></h1>
+            <p class="site-description">Agence RGPD - DPO externalisé</p>
+          </div>
+
+        </header>
+      </div>
+</div>
+
+
+
+
+
 <table>
     <tr>
       <td width=200><img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/></td>
