@@ -5,8 +5,9 @@ permalink: /test/
 ---
 <div>
   <div>
+![Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données"){: .center-image }
 
-    ![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jpg "Accompagnement dans la démarche RGPD")
+![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jpg "Accompagnement dans la démarche RGPD")
 
     Accompagnement dans la démarche RGPD - DPO externalisé
   </div>
