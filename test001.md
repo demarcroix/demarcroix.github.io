@@ -22,11 +22,13 @@ permalink: /test/
     <div class="wrapper-masthead">
        <div class="container">
          <header class="masthead clearfix">
-           <img src="/images/metiers-rgpd.jpg" alt="Métiers RGPD" title="Métiers RGPD" />
+           <img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/>
            <div class="site-info">
-           <strong>Expertises RGPD métiers</strong>, notamment:<ul><li>Technologies de l’information (exemple: <a href="https://claustres.com/editeur-logiciel-rgpd/">éditeurs de logiciels</a>)</li><li>Santé (exemple: <a href="https://claustres.com/etablissement-sante-rgpd/">établissements de santé</a>)</li>
-           <li>Mais aussi: e-commerce, e-learning, courtage, logistique...</li>
-           </ul>
+             <strong>Accompagnement dans la démarche RGPD:</strong>
+             <ul>
+               <li>Accompagnement des <strong>TPE et PME et ETI</strong> dans la démarche RGPD, <a href="https://claustres.com/accompagnement-dpo-demarche-rgpd">y compris le cas échéant leur DPO</a>: cartographie, documentation support, plan d’action etc.</li>
+               <li>Conseils en amont des <strong>projets innovants</strong> (intelligence artifcielle, big data, cloud…)</li>
+             </ul>
            </div>
          </header>
        </div>
@@ -35,9 +37,13 @@ permalink: /test/
      <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <img src="/images/partenaires-rgpd.jpg" alt="Partenaires RGPD" title="Partenaires RGPD" />
+            <img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/>
             <div class="site-info">
-            <strong>Partenaire RGPD des avocats et experts-comptables</strong><br /> Nous apportons notre expertise dans l’audit et la formalisation règlementaire des traitements de données personnelles chez leurs clients: registre des traitements, mentions obligatoires d'information, bonnes pratiques de sécurisation, contractualisation avec les sous-traitants (DPA) etc.
+              <strong>Accompagnement dans la démarche RGPD:</strong>
+              <ul>
+                <li>Accompagnement des <strong>TPE et PME et ETI</strong> dans la démarche RGPD, <a href="https://claustres.com/accompagnement-dpo-demarche-rgpd">y compris le cas échéant leur DPO</a>: cartographie, documentation support, plan d’action etc.</li>
+                <li>Conseils en amont des <strong>projets innovants</strong> (intelligence artifcielle, big data, cloud…)</li>
+              </ul>
             </div>
           </header>
         </div>
@@ -46,14 +52,17 @@ permalink: /test/
       <div class="wrapper-masthead">
          <div class="container">
            <header class="masthead clearfix">
-             <img src="/images/BV_Certification_Certification-DPO-miniV2.jpg" alt="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" title="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" class="center-image" />
+             <img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/>
              <div class="site-info">
-             <strong>Délégué à la Protection des Données (DPO) externalisé</strong><br>
-             Nos experts RGPD ont une certification des compétences du DPO agréée CNIL (organisme certificateur: Bureau Veritas Certification France)             </div>
+               <strong>Accompagnement dans la démarche RGPD:</strong>
+               <ul>
+                 <li>Accompagnement des <strong>TPE et PME et ETI</strong> dans la démarche RGPD, <a href="https://claustres.com/accompagnement-dpo-demarche-rgpd">y compris le cas échéant leur DPO</a>: cartographie, documentation support, plan d’action etc.</li>
+                 <li>Conseils en amont des <strong>projets innovants</strong> (intelligence artifcielle, big data, cloud…)</li>
+               </ul>
+             </div>
            </header>
          </div>
        </div>
-
 
 
 <table>
