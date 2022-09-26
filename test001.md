@@ -10,13 +10,9 @@ permalink: /test/
           <img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/>
 
           <div class="site-info">
-          <p><strong>Accompagnement dans la démarche RGPD:</strong><br>
-          <ul>
-            <li>Accompagnement des <strong>TPE et PME et ETI</strong> dans la démarche RGPD, <a href="https://claustres.com/accompagnement-dpo-demarche-rgpd">y compris le cas échéant leur DPO</a>: cartographie, documentation support, plan d’action etc.</li>
-            <li>Conseils en amont des <strong>projets innovants</strong> (intelligence artifcielle, big data, cloud…)</li>
-          </ul>
-          </p>
-          </div>
+                      <h1 class="site-name"><a href="/">Claustres Conseil</a></h1>
+                      <p class="site-description">Agence RGPD - DPO externalisé</p>
+                    </div>
 
         </header>
       </div>
