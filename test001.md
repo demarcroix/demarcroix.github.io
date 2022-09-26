@@ -21,7 +21,26 @@ Blabla
     </tr>
 </table>
 
+<TABLE Border="1" Cellspacing="2" Cellpadding="0" Width="80%" Height="245">
+<TR>
 
+<TD ALIGN="CENTER">Texte centr&eacute; horizontalement</TD>
+<TD ALIGN="RIGHT">Texte justifi&eacute; &agrave; droite</TD>
+
+</TR>
+<TR>
+
+<TD>Texte justifi&eacute; &agrave; gauche</TD>
+<TD VALIGN="TOP">Texte cadr&eacute; en haut</TD>
+
+</TR>
+<TR>
+
+<TD>Texte centr&eacute; verticalement</TD>
+<TD VALIGN="BOTTOM" ALIGN="RIGHT">Texte cadr&eacute; en bas &agrave; droite</TD>
+
+</TR>
+</TABLE>
 
 
 
