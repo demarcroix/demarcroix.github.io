@@ -9,13 +9,12 @@ Blabla
 <table>
     <tr>
       <td width=200><img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/></td>
-      <td style="vertical-align:top;"><strong>Accompagnement dans la démarche RGPD - DPO externalisé</strong><br> <ul>
-  <li><strong>Sensibilisation</strong> générale de vos équipes au RGPD ;</li>
-  <li>Accompagnement des <strong>TPE et petites PME</strong> dans la démarche RGPD (cartographie, documentation support, plan d’action etc.) ;</li>
-  <li>Accompagnement des <strong>DPO des PME et ETI</strong> dans la mise en place opérationnelle du RGPD (<a href="https://claustres.com/accompagnement-dpo-demarche-rgpd">méthodologie + logiciel RGPD</a>) ;</li>
-  <li>Conseils en amont des <strong>projets innovants</strong> (intelligence artifcielle, big data, cloud…) pour cadrer les enjeux RGPD ;</li>
-  <li><strong>Délégué à la Protection des Données (DPO) externalisé</strong> avec une <strong>certification des compétences du DPO agréée CNIL depuis 2018</strong> (organisme certificateur: Bureau Veritas Certification France).</li>
-</ul></td>
+      <td style="vertical-align:top;"><strong>Accompagnement dans la démarche RGPD - DPO externalisé</strong><br>
+      <ul>
+        <li>Accompagnement des <strong>TPE et PME et ETI</strong> dans la démarche RGPD ,<a href="https://claustres.com/accompagnement-dpo-demarche-rgpd">y compris le cas échéant leur DPO</a>: cartographie, documentation support, plan d’action etc.</li>
+        <li>Conseils en amont des <strong>projets innovants</strong> (intelligence artifcielle, big data, cloud…)</li>
+      </ul>
+      </td>
     </tr>
     <tr>
       <td width=200><img src="/images/metiers-rgpd.jpg" alt="Métiers RGPD" title="Métiers RGPD" /></td>
@@ -32,6 +31,12 @@ Blabla
       </ul>
       </td>
     </tr>
+    <tr>
+      <td width=200><img src="/images/BV_Certification_Certification-DPO-miniV2.jpg" alt="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" title="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" class="center-image" /></td>
+      <td style="vertical-align:top;"><strong>Délégué à la Protection des Données (DPO) externalisé</strong>
+      Nos experts RGPD ont une certification des compétences du DPO agréée CNIL (organisme certificateur: Bureau Veritas Certification France)
+      </td>
+    </tr>
 </table>
 
 
@@ -40,6 +45,3 @@ N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Cham
 * Agence de [Lyon]({{ site.baseurl }}/agence-rgpd-dpo-lyon) : [04 28 29 08 24](tel:+33428290824)
 * Agence de [Grenoble]({{ site.baseurl }}/agence-rgpd-dpo-grenoble) : [04 76 18 59 76](tel:+33476185976)
 * [contact@claustres.com](mailto:contact@claustres.com)
-
-
-Nous avons des expériences particulières dans le domaine des <strong>technologies de l’information</strong> (exemple: <a href="https://claustres.com/editeur-logiciel-rgpd/">éditeurs de logiciels</a>), ainsi que sur des <strong>métiers</strong> particuliers (exemple: <a href="https://claustres.com/etablissement-sante-rgpd/">établissements de santé</a>).</p>
