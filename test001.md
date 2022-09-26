@@ -17,7 +17,7 @@ permalink: /test/
           </ul>
           </div>
 
-        </head>
+        </header>
       </div>
 </div>
 
