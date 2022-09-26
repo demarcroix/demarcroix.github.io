@@ -6,17 +6,21 @@ permalink: /test/
 
 Blabla
 
-<span>
 
 ![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jpg "Accompagnement dans la démarche RGPD")
-Accompagnement dans la démarche RGPD - DPO externalisé
+Accompagnement dans la démarche RGPD - DPO externalisé<br>
+blblba blabla bblbla<br>
+blibli bli
 
 ![Métiers RGPD]({{ site.baseurl }}/images/metiers-rgpd.jpg "Métiers RGPD")
+Expertise RGPD sur des métiers :<br>
+Etablissements de santé, éditeurs de logiciel, e-commerce...<br>
+(Liste non exhaustive!)
 
 
 ![Partenaires RGPD]({{ site.baseurl }}/images/partenaires-rgpd.jpg "Partenaires RGPD")
 
-</span>
+
 
 N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Chambéry, Annecy, Valence…
 * Agence de [Paris]({{ site.baseurl }}/agence-rgpd-dpo-paris) : [01 89 16 54 96](tel:+33189165496)
