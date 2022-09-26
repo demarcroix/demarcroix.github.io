@@ -8,15 +8,12 @@ Blabla
 
 
 | ![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jpg "Accompagnement dans la démarche RGPD") | Accompagnement dans la démarche RGPD - DPO externalisé. blblba blabla bblbla. blibli bli |
-
-![Métiers RGPD]({{ site.baseurl }}/images/metiers-rgpd.jpg "Métiers RGPD")
-Expertise RGPD sur des métiers :<br>
+| ![Métiers RGPD]({{ site.baseurl }}/images/metiers-rgpd.jpg "Métiers RGPD") | Expertise RGPD sur des métiers :<br>
 Etablissements de santé, éditeurs de logiciel, e-commerce...<br>
-(Liste non exhaustive!)
-
-
-![Partenaires RGPD]({{ site.baseurl }}/images/partenaires-rgpd.jpg "Partenaires RGPD")
-
+(Liste non exhaustive!) |
+| ![Partenaires RGPD]({{ site.baseurl }}/images/partenaires-rgpd.jpg "Partenaires RGPD") | Partenaire RGPD des avocats et experts-comptables<br>
+Nous apportons notre expertise dans l'identification des traitements <br>
+blabla |
 
 
 N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Chambéry, Annecy, Valence…
