@@ -17,9 +17,7 @@ permalink: /test/
           </div>
         </header>
       </div>
-    </div>
 
-    <div class="wrapper-masthead">
        <div class="container">
          <header class="masthead clearfix">
            <img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/>
@@ -32,9 +30,7 @@ permalink: /test/
            </div>
          </header>
        </div>
-     </div>
 
-     <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
             <img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/>
@@ -47,9 +43,7 @@ permalink: /test/
             </div>
           </header>
         </div>
-      </div>
 
-      <div class="wrapper-masthead">
          <div class="container">
            <header class="masthead clearfix">
              <img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/>
