@@ -8,9 +8,9 @@ Blabla
 
 
 ![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jpg "Accompagnement dans la démarche RGPD")
-Accompagnement dans la démarche RGPD - DPO externalisé<br>
+<span>Accompagnement dans la démarche RGPD - DPO externalisé<br>
 blblba blabla bblbla<br>
-blibli bli
+blibli bli</span>
 
 ![Métiers RGPD]({{ site.baseurl }}/images/metiers-rgpd.jpg "Métiers RGPD")
 Expertise RGPD sur des métiers :<br>
