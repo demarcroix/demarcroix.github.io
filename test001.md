@@ -9,25 +9,17 @@ Blabla
 <table>
     <tr>
       <td width=200><img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/></td>
-      <td style="vertical-align:top;">Accompagnement dans la démarche RGPD - DPO externalisé. blblba blabla bblbla. blibli bli</td>
+      <td style="vertical-align:top;">Accompagnement dans la démarche RGPD - DPO externalisé.<br> blblba blabla bblbla. blibli bli</td>
     </tr>
     <tr>
-      <td width=200 style="vertical-align:top;"><img src="/images/metiers-rgpd.jpg" alt="Métiers RGPD" title="Métiers RGPD" /></td>
-      <td style="vertical-align:top;">Expertise RGPD sur des métiers :<br /> Etablissements de santé, éditeurs de logiciel, e-commerce…<br /> (Liste non exhaustive!)</td>
+      <td width=200><img src="/images/metiers-rgpd.jpg" alt="Métiers RGPD" title="Métiers RGPD" /></td>
+      <td style="vertical-align:top;"><strong>Expertise RGPD métiers</strong>, notamment:<br /><ul><li>Technologies de l’information (exemple: <a href="https://claustres.com/editeur-logiciel-rgpd/">éditeurs de logiciels</a>)</li>Santé (exemple: <a href="https://claustres.com/etablissement-sante-rgpd/">établissements de santé</a>))</li></ul></td>
     </tr>
     <tr>
       <td width=200><img src="/images/partenaires-rgpd.jpg" alt="Partenaires RGPD" title="Partenaires RGPD" /></td>
-      <td>Partenaire RGPD des avocats et experts-comptables<br /> Nous apportons notre expertise dans l’identification des traitements <br /> blabla</td>
+      <td style="vertical-align:top;">Partenaire RGPD des avocats et experts-comptables<br /> Nous apportons notre expertise dans l’identification des traitements <br /> blabla</td>
     </tr>
 </table>
-
-
-
-<p> ![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jpg "Accompagnement dans la démarche RGPD") Accompagnement dans la démarche RGPD - DPO externalisé. blblba blabla bblbla. blibli bli </p>
-
-![Métiers RGPD]({{ site.baseurl }}/images/metiers-rgpd.jpg "Métiers RGPD") Expertise RGPD sur des métiers :<br> Etablissements de santé, éditeurs de logiciel, e-commerce...<br> (Liste non exhaustive!)
-
-| ![Partenaires RGPD]({{ site.baseurl }}/images/partenaires-rgpd.jpg "Partenaires RGPD") | Partenaire RGPD des avocats et experts-comptables<br> Nous apportons notre expertise dans l'identification des traitements <br> blabla |
 
 
 N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Chambéry, Annecy, Valence…
@@ -35,3 +27,6 @@ N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Cham
 * Agence de [Lyon]({{ site.baseurl }}/agence-rgpd-dpo-lyon) : [04 28 29 08 24](tel:+33428290824)
 * Agence de [Grenoble]({{ site.baseurl }}/agence-rgpd-dpo-grenoble) : [04 76 18 59 76](tel:+33476185976)
 * [contact@claustres.com](mailto:contact@claustres.com)
+
+
+Nous avons des expériences particulières dans le domaine des <strong>technologies de l’information</strong> (exemple: <a href="https://claustres.com/editeur-logiciel-rgpd/">éditeurs de logiciels</a>), ainsi que sur des <strong>métiers</strong> particuliers (exemple: <a href="https://claustres.com/etablissement-sante-rgpd/">établissements de santé</a>).</p>
