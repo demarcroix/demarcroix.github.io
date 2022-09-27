@@ -8,7 +8,7 @@ permalink: /test/
 **La plupart des éditeurs de logiciels doivent se mettre en conformité RGPD**
 * ils sont structurellement en situation de sous-traitance au sens RGPD avec leurs clients, *a minima* pour la maintenance ;
 * leurs clients doivent s'assurer de leur conformité RGPD avec leurs sous-traitants, pour être eux-mêmes conformes RGPD ;
-* le RGPD exige qu'une formalisation contractuelle spécifique définisse clairement la relation entre vous et votre client ;
+* le RGPD exige qu'une formalisation contractuelle spécifique définisse dans le détail la relation entre l'éditeur et son client ;
 * parfois la nomination d'un DPO est obligatoire, notamment en fonction de la qualité (sensibilité) ou du volume de données personnelles traitées.
 
 ![Métiers RGPD]({{ site.baseurl }}/images/metiers-rgpd.jpg "Métiers RGPD")\
