@@ -4,14 +4,14 @@ title: "TEST"
 permalink: /test/
 ---
 
-![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jpg "Accompganement dans la démarche RGPD")
-
+![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jpg "Accompganement dans la démarche RGPD")\
 **Accompagnement dans la démarche RGPD:**
 * Accompagnement des **TPE, PME et ETI** dans la démarche RGPD, [y compris le cas échéant leur DPO]({{ site.baseurl }}/accompagnement-dpo-demarche-rgpd): cartographie, documentation support, plan d’action etc.
 * Conseils en amont des **projets innovants** (intelligence artifcielle, big data, cloud…)
 
-![Métiers et RGPD]({{ site.baseurl }}/images/metiers-rgpd.jpg "Métiers et RGPD")
+---
 
+![Métiers et RGPD]({{ site.baseurl }}/images/partenaires-rgpd.jpg "Métiers et RGPD")\
 **Expertises RGPD métiers**, notamment:
 * Technologies de l’information : [éditeurs de logiciels]({{ site.baseurl }}/editeur-logiciel-rgpd), e-commerce, e-learning...
 * Santé : [établissements de santé]({{ site.baseurl }}/etablissement-sante-rgpd), éditeur PACS...
@@ -19,59 +19,19 @@ permalink: /test/
 
 ---
 
-<div class="wrapper-masthead">
+[Partenaires RGPD]({{ site.baseurl }}/images/metiers-rgpd.jpg "Partenaires RGPD")\
+**Partenaire auditeur RGPD des avocats et experts-comptables:**
+Nous apportons notre expertise dans l’audit et la formalisation règlementaire des traitements de données personnelles chez les clients des [cabinets d’expertise comptable]({{ site.baseurl }}/expert-comptable-rgpd-dpo) et des [cabinets d’avocats]({{ site.baseurl }}/avocat-rgpd-dpo): registre des traitements, mentions obligatoires d'information, bonnes pratiques de sécurisation, contractualisation avec les sous-traitants (DPA) etc.
 
-        <div class="container">
-          <header class="masthead clearfix">
-            <img src="/images/partenaires-rgpd.jpg" alt="Partenaires RGPD" title="Partenaires RGPD" />
-            <div class="site-info">
-              <strong>Partenaire auditeur RGPD des avocats et experts-comptables</strong><br /> Nous apportons notre expertise dans l’audit et la formalisation règlementaire des traitements de données personnelles chez les clients des <a href="https://claustres.com/expert-comptable-rgpd-dpo/">cabinets d’expertise comptable</a> et des <a href="https://claustres.com/avocat-rgpd-dpo/">cabinets d’avocats</a>: registre des traitements, mentions obligatoires d'information, bonnes pratiques de sécurisation, contractualisation avec les sous-traitants (DPA) etc.
-            </div>
-          </header>
-        </div>
+---
 
-         <div class="container">
-           <header class="masthead clearfix">
-             <img src="/images/BV_Certification_Certification-DPO-miniV2.jpg" alt="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" title="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" />
-             <div class="site-info">
-              <strong>Délégué à la Protection des Données (DPO) externalisé</strong><br>
-              Nos experts RGPD ont une certification des compétences du DPO agréée CNIL (organisme certificateur: Bureau Veritas Certification France)
-            </div>
-           </header>
-         </div>
-       </div>
+[Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données")\
+**Délégué à la Protection des Données (DPO) externalisé:**
+Nos auditeurs RGPD ont une certification des compétences du DPO agréée CNIL (organisme certificateur: Bureau Veritas Certification France)
 
+---
 
-<table>
-    <tr>
-      <td width=200><img src="/images/accompagnement-rgpd.jpg" alt="Accompganement dans la démarche RGPD" title="Accompagnement dans la démarche RGPD"/></td>
-      <td style="vertical-align:top;"><strong>Accompagnement dans la démarche RGPD:</strong><br>
-      <ul>
-        <li>Accompagnement des <strong>TPE et PME et ETI</strong> dans la démarche RGPD, <a href="https://claustres.com/accompagnement-dpo-demarche-rgpd">y compris le cas échéant leur DPO</a>: cartographie, documentation support, plan d’action etc.</li>
-        <li>Conseils en amont des <strong>projets innovants</strong> (intelligence artifcielle, big data, cloud…)</li>
-      </ul>
-      </td>
-    </tr>
-    <tr>
-      <td width=200><img src="/images/metiers-rgpd.jpg" alt="Métiers RGPD" title="Métiers RGPD" /></td>
-      <td style="vertical-align:top;"><strong>Expertises RGPD métiers</strong>, notamment:<br /><ul><li>Technologies de l’information (exemple: <a href="https://claustres.com/editeur-logiciel-rgpd/">éditeurs de logiciels</a>)</li><li>Santé (exemple: <a href="https://claustres.com/etablissement-sante-rgpd/">établissements de santé</a>)</li>
-      <li>Mais aussi: e-commerce, e-learning, courtage, logistique...</li>
-      </ul></td>
-    </tr>
-    <tr>
-      <td width=200><img src="/images/partenaires-rgpd.jpg" alt="Partenaires RGPD" title="Partenaires RGPD" /></td>
-      <td style="vertical-align:top;"><strong>Partenaire RGPD des avocats et experts-comptables</strong><br /> Nous apportons notre expertise dans l’audit et la formalisation règlementaire des traitements de données personnelles chez leurs clients: registre des traitements, mentions obligatoires d'information, bonnes pratiques de sécurisation, contractualisation avec les sous-traitants (DPA) etc.
-      </td>
-    </tr>
-    <tr>
-      <td width=200><img src="/images/BV_Certification_Certification-DPO-miniV2.jpg" alt="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" title="Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données" class="center-image" /></td>
-      <td style="vertical-align:top;"><strong>Délégué à la Protection des Données (DPO) externalisé</strong><br>
-      Nos experts RGPD ont une certification des compétences du DPO agréée CNIL (organisme certificateur: Bureau Veritas Certification France)
-      </td>
-    </tr>
-</table>
-
-
+[Contacter Claustres Conseil]({{ site.baseurl }}/images/contacter-claustres-conseil.jpg "Contacter Claustres Conseil")\
 N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Chambéry, Annecy, Valence…
 * Agence de [Paris]({{ site.baseurl }}/agence-rgpd-dpo-paris) : [01 89 16 54 96](tel:+33189165496)
 * Agence de [Lyon]({{ site.baseurl }}/agence-rgpd-dpo-lyon) : [04 28 29 08 24](tel:+33428290824)
