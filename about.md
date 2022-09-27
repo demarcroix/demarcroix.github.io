@@ -36,9 +36,6 @@ L'hébergeur GITHUB Inc. peut être amené à traiter des données personnelles 
 
 Voir la [collecte des données personnelles de GITHUB](https://help.github.com/en/github/site-policy/github-privacy-statement#what-information-github-collects) (anglais)
 
-Il est important de souligner que même si le site Web est hébergé dans un pays tiers de l'UE/EEE, les données personnelles envoyées à ABLA.IO pour réaliser les statistiques anonymes ne transitent pas par des pays tiers quand les pages du site Web sont consultées dans l'UE/EEE.
-
-
 ### Propriété intellectuelle et contrefaçons
 
 Le propriétaire du site Web est propriétaire des droits de propriété intellectuelle ou détient les droits d’usage sur tous les éléments accessibles sur le site (textes, images, graphiques, logos…).
