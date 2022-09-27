@@ -5,8 +5,8 @@ permalink: /test/
 ---
 
 ![Questions RGPD]({{ site.baseurl }}/images/questions-rgpd.jpg "Questions RGPD")\
-**Cabinets d'avocats ou conseils juridiques, vos client font appel à vous pour la conformité RGPD**
-* ils pensent souvent qu'ils ne s'agit que d'une simple mise à jour juridique ;
+**Cabinets d'expertise comptable, vos client font appel à vous pour la conformité RGPD**
+* ils pensent souvent qu'ils ne s'agit que d'une simple mise à jour de leur juridique d'entreprise ;
 * alors qu'il faut préalablement auditer leurs traitements de données de données personnelles ;
 * et que vous n'avez pas forcément le temps et les compétences en interne pour le faire.
 
@@ -18,8 +18,7 @@ permalink: /test/
 
 ![Partenaires RGPD]({{ site.baseurl }}/images/partenaires-rgpd.jpg "Partenaires RGPD")\
 **Un partenariat win-win"**
-* l'avocat défend globalement les intérêts de son client,
-* l'auditeur RGPD défend les intérêts des personnes concernées par les traitements de données de ce client,
-* si nous sommes désignés en tant que DPO externe, **il n'y aura pas de conflits d'intérêts comme l'exige le RGPD**.
+* vous gardez votre légitimité de principal conseil de votre client en prescrivant un spécialiste de l'audit RGPD ;
+* vous vous assurez de la conformité RGPD de vos clients dans la durée, notamment si nous sommes désignés en tant que DPO externe.
 
 {%include bas-page.md %}
