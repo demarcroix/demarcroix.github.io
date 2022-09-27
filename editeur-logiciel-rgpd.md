@@ -4,7 +4,7 @@ title: "Expert RGPD - DPO externalisé - Editeurs de logiciels"
 permalink: /editeur-logiciel-rgpd/
 ---
 ![Logiciel et RGPD]({{ site.baseurl }}/images/logiciel-rgpd.jpg "Logiciel et RGPD")\
-**La plupart des éditeurs de logiciels doivent se mettre en conformité RGPD**
+**Les éditeurs de logiciels sont particulièrement concernés par la question de la conformité RGPD**
 * ils sont structurellement en situation de sous-traitance au sens RGPD avec leurs clients, *a minima* pour la maintenance ;
 * leurs clients doivent s'assurer de leur conformité RGPD avec leurs sous-traitants, pour être eux-mêmes conformes RGPD ;
 * le RGPD exige qu'une formalisation contractuelle spécifique définisse dans le détail la relation entre l'éditeur et son client ;
