@@ -4,18 +4,17 @@ title: "TEST"
 permalink: /test/
 ---
 
-![Logiciel et RGPD]({{ site.baseurl }}/images/logiciel-rgpd.jpg "Logiciel et RGPD")\
-**La plupart des éditeurs de logiciels doivent se mettre en conformité RGPD**
-* ils sont structurellement en situation de sous-traitance au sens RGPD avec leurs clients, *a minima* pour la maintenance ;
-* leurs clients doivent s'assurer de leur conformité RGPD avec leurs sous-traitants, pour être eux-mêmes conformes RGPD ;
-* le RGPD exige qu'une formalisation contractuelle spécifique définisse dans le détail la relation entre l'éditeur et son client ;
-* parfois la nomination d'un DPO est obligatoire, notamment en fonction de la qualité (sensibilité) ou du volume de données personnelles traitées.
+![Santé et RGPD]({{ site.baseurl }}/images/sante-rgpd.jpg Santé et RGPD")\
+**Le RGPD concerne directement les acteurs du domaine de la santé**
+* la nature même de leur activité les amène à traiter des données personnelles de santé, données sensibles au sens du RGPD ;
+* dès lors que les dossiers patients sont partagés entre plusieurs professionnels de santé, ils doivent réaliser des **Analyses d'Impact sur la Protection des Dnnnées (AIPD)** ;
+* ils doivent aussi désigner dans ce cas un **Délégué à la Protection des Données (DPO)**.
 
 ![Métiers RGPD]({{ site.baseurl }}/images/metiers-rgpd.jpg "Métiers RGPD")\
-**Nous connaissons bien votre métier d'éditeur de logiciel**
+**Nous connaissons bien les métiers de la santé**
 * nous avons déjà audité des clients dans ce secteur ;
 * nous avons déjà été désigné comme DPO externe de certains d'entre eux ;
-* nous parlons la même langue : on premise, SaaS, hébergé, intégrateur, maintenance, support..
+* nous parlons la même langue : secrétaires médicales, messagerie MS Santé, FSE, CPS/CPE...
 
 ![Accountability RGPD]({{ site.baseurl }}/images/accountability-rgpd.jpg "Accountability RGPD")\
 **Nous vous accompagnons dans la démarche RGPD**
