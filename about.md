@@ -26,7 +26,7 @@ Le site Web CLAUSTRES.COM a pour objet de fournir des informations sur le Règle
 
 ### Protection des données personnelles
 
-Le présent site Web ne collecte des données personnelles que pour la finalité légitime de disposer de statistiques anonymisées.
+Nous ne traitons des données personnelles sur le site Web CLAUSTRES.COM que pour la finalité légitime de disposer de statistiques anonymisées.
 
 La solution utilisée est [ABLA.IO](https://abla.io/) dont l'implémentation est conforme aux [recommandations de la CNIL](https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies-solutions-pour-les-outils-de-mesure-daudience) pour l'exemption de consentement préalable. Elle n'utilise pas de cookies, mais collecte le minimum de données personnelles nécessaires, notamment l'adresses IP des utilisateurs immédiatement anonymisée, la localisation limitée au pays, le site Web d'origine ("referer"), la page Web consultée, le type de navigateur Web utilisé (Chrome, Firefox...), la langue configurée sur le navigateur, le système d'exploitation du navigateur (Windows, Android...), le type de terminal (Desktop, Laptop, Smartphone...) et la taille d'écran.
 
