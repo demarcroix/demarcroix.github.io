@@ -5,16 +5,19 @@ permalink: /test/
 ---
 
 ![Accompganement dans la démarche RGPD]({{ site.baseurl }}/images/accompagnement-rgpd.jpg "Accompganement dans la démarche RGPD")
+
 **Accompagnement dans la démarche RGPD:**
 * Accompagnement des **TPE, PME et ETI** dans la démarche RGPD, [y compris le cas échéant leur DPO]({{ site.baseurl }}/accompagnement-dpo-demarche-rgpd): cartographie, documentation support, plan d’action etc.
 * Conseils en amont des **projets innovants** (intelligence artifcielle, big data, cloud…)
 
 ![Métiers et RGPD]({{ site.baseurl }}/images/metiers-rgpd.jpg "Métiers et RGPD")
+
 **Expertises RGPD métiers**, notamment:
 * Technologies de l’information : [éditeurs de logiciels]({{ site.baseurl }}/editeur-logiciel-rgpd), e-commerce, e-learning...
 * Santé : [établissements de santé]({{ site.baseurl }}/etablissement-sante-rgpd), éditeur PACS...
 * Mais aussi: courtage, logistique, conseil, associatif...
 
+---
 
 <div class="wrapper-masthead">
 
