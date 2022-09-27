@@ -1,12 +1,6 @@
 
 ---
 
-![Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données"){: .center-image }\
-**Délégué à la Protection des Données (DPO) externalisé**\
-Nos auditeurs RGPD ont une certification des compétences du DPO agréée CNIL (organisme certificateur: Bureau Veritas Certification France)
-
----
-
 ![Contacter Claustres Conseil]({{ site.baseurl }}/images/contacter-claustres-conseil.jpg "Contacter Claustres Conseil")\
 N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Chambéry, Annecy, Valence…
 * Agence de [Paris]({{ site.baseurl }}/agence-rgpd-dpo-paris) : [01 89 16 54 96](tel:+33189165496)
