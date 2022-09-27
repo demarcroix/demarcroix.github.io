@@ -3,26 +3,21 @@ layout: page
 title: "Partenaire auditeur RGPD des Experts-Comptables - Lyon Paris Grenoble"
 permalink: /expert-comptable-rgpd-dpo/
 ---
-Vous êtes un cabinet d'expertise comptable et vous cherchez un partenaire pour mener à bien les **audits RGPD** de vos clients, voire assurer pour eux le rôle de **DPO externalisé**?
+![Questions RGPD]({{ site.baseurl }}/images/questions-rgpd.jpg "Questions RGPD")\
+**Cabinets d'expertise comptable, vos client font appel à vous pour la conformité RGPD**
+* ils pensent souvent qu'ils ne s'agit que d'une simple mise à jour de leur juridique d'entreprise ;
+* alors qu'il faut préalablement auditer leurs traitements de données de données personnelles ;
+* et que vous n'avez pas forcément le temps et les compétences en interne pour le faire.
 
-Vos clients font appel à vous à propos du RGPD en pensant qu'il s'agit d'une simple mise à jour de leur juridique d'entreprise, mais avez-vous le temps et les compétences nécessaires pour mettre en place les délivrables de l'_accountability_ RGPD, en particulier :
-* la mise en place du **registre** recensant tous les traitements de données personnelles de l'organisme,
-* les modalités pratiques de l’**information** à délivrer aux personnes concernées (documents, affichage, site Web etc.),
-* les actions à mener pour garantir la **sécurité** des données personnelles, y compris les éventuelles analyses d'impact (AIPD),
-* l'inventaire des **sous-traitants** avec lesquels il faudra valider les Data Processing Agreements (DPA).
+![Accountability RGPD]({{ site.baseurl }}/images/accountability-rgpd.jpg "Accountability RGPD")\
+**Nous pouvons être votre partenaire auditeur RGPD**
+* nous auditons vos clients pour pour mettre en place les délivrables de l'_accountability_ : registre des traitements, information des personnes concernées, sécurité des traitements, inventaire des sous-traitants RGPD...
+* nous pouvons accompagner vos clients dans la durée pour réduire l'écart à la conformité RGPD ;
+* enfin, nous pouvons aussi devenir leur **Délégué à la Protection des Données (DPO) externalisé**.
 
-Certains de vos clients auront aussi besoin d'un **Délégué à la Protection des Données (DPO)** : contrairement à l'ancien CIL (Correspondant Informatique et Liberté), le DPO ne doit pas avoir de **conflits d'intérêts** avec le responsable des traitements (ce qui exclut en particulier le(s) gérant(s) d'une SARL ou les divers postes de direction d'une entreprise en général) et doit posséder les **compétences** requises dans le RGPD ainsi que les **moyens** nécessaires à sa mission.
+![Partenaires RGPD]({{ site.baseurl }}/images/partenaires-rgpd.jpg "Partenaires RGPD")\
+**Un partenariat win-win**
+* vous gardez votre légitimité de principal conseil de votre client en prescrivant un spécialiste de l'audit RGPD ;
+* vous vous assurez de la conformité RGPD de vos clients dans la durée, notamment si nous sommes désignés en tant que DPO externe.
 
-Nommer un **DPO externalisé** constitue par conséquent la solution la plus efficace pour vos clients pour gérer à la fois la question de l'indépendance et celle de l'obligation de moyens qui sera décrites formellement dans un contrat.
-
-Pour s'assurer des compétences requises, nous avons depuis 2018 une **certification des compétences du DPO agréée par la Commission Nationale Informatique et Libertés (CNIL)**, réalisée par Bureau Veritas Certification France.
-
-![Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données]({{ site.baseurl }}/images/BV_Certification_Certification-DPO-miniV2.jpg "Bureau Veritas Certification - Certification des personnes - Délégué à la Protection des Données"){: .center-image }
-
-L'Expert-Comptable est certainement le premier Conseil auprès duquel vos client TPE et PME s'adressent dès qu'il est question de RGPD : **notre expertise** dans ce domaine vous permet légitimement de nous prescrire pour réaliser les audits RGPD et assurer le rôle de DPO externe chez vos clients.
-
-N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Chambéry, Annecy, Valence…
-* Agence de [Paris]({{ site.baseurl }}/agence-rgpd-dpo-paris) : [01 89 16 54 96](tel:+33189165496)
-* Agence de [Lyon]({{ site.baseurl }}/agence-rgpd-dpo-lyon) : [04 28 29 08 24](tel:+33428290824)
-* Agence de [Grenoble]({{ site.baseurl }}/agence-rgpd-dpo-grenoble) : [04 76 18 59 76](tel:+33476185976)
-* [contact@claustres.com](mailto:contact@claustres.com)
+{%include bas-page.md %}

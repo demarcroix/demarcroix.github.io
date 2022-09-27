@@ -4,21 +4,22 @@ title: "TEST"
 permalink: /test/
 ---
 
-![Questions RGPD]({{ site.baseurl }}/images/questions-rgpd.jpg "Questions RGPD")\
-**Cabinets d'expertise comptable, vos client font appel à vous pour la conformité RGPD**
-* ils pensent souvent qu'ils ne s'agit que d'une simple mise à jour de leur juridique d'entreprise ;
-* alors qu'il faut préalablement auditer leurs traitements de données de données personnelles ;
-* et que vous n'avez pas forcément le temps et les compétences en interne pour le faire.
+![Logiciel et RGPD]({{ site.baseurl }}/images/logiciel-rgpd.jpg "Logiciel et RGPD")\
+**La plupart des éditeurs de logiciels doivent se mettre en conformité RGPD**
+* ils sont structurellement en situation de sous-traitance au sens RGPD avec leurs clients, *à minima* pour la maintenance ;
+* leurs clients doivent s'assurer de leur conformité RGPD avec leurs sous-traitants, pour être eux-mêmes conformes RGPD ;
+* le RGPD exige qu'une formalisation contractuelle spcifique définisse clairement la relation entre vous et votre client.
+
+![Métiers RGPD]({{ site.baseurl }}/images/metiers-rgpd.jpg "Métiers RGPD")\
+**Nous connaissons bien votre métier d'éditeur de logiciel**
+* nous avons déjà audité des clients dans ce secteur ;
+* nous avons déjà été désigné comme DPO externe de certains d'entre eux ;
+* nous parlons la même langue : on premise, SaaS, hébergé, intégrateur, maintenance, support..
 
 ![Accountability RGPD]({{ site.baseurl }}/images/accountability-rgpd.jpg "Accountability RGPD")\
-**Nous pouvons être votre partenaire auditeur RGPD**
-* nous auditons vos clients pour pour mettre en place les délivrables de l'_accountability_ : registre des traitements, information des personnes concernées, sécurité des traitements, inventaire des sous-traitants RGPD...
-* nous pouvons accompagner vos clients dans la durée pour réduire l'écart à la conformité RGPD ;
-* enfin, nous pouvons aussi devenir leur **Délégué à la Protection des Données (DPO) externalisé**.
-
-![Partenaires RGPD]({{ site.baseurl }}/images/partenaires-rgpd.jpg "Partenaires RGPD")\
-**Un partenariat win-win"**
-* vous gardez votre légitimité de principal conseil de votre client en prescrivant un spécialiste de l'audit RGPD ;
-* vous vous assurez de la conformité RGPD de vos clients dans la durée, notamment si nous sommes désignés en tant que DPO externe.
+**Nous vous accompagnons dans la démarche RGPD**
+* nous vous auditons pour pour mettre en place les délivrables de l'*accountability* : registre des traitements, information des personnes concernées, sécurité des traitements, inventaire des sous-traitants RGPD...
+* nous vous accompagnons dans la durée pour réduire les écarts à la conformité RGPD ;
+* nous pouvons aussi devenir votre **Délégué à la Protection des Données (DPO) externalisé**.
 
 {%include bas-page.md %}
