@@ -15,7 +15,11 @@
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 
     <!-- Abla Analaytics cookieless conforme CNIL -->
-    <script async defer data-website-id="49eb16c2-3889-4576-a180-dbc03428f2c9" src="https://s.abla.io/abla.js"></script>
+    {% if site.url contains 'claustres.com' %}
+         <script async defer data-website-id="49eb16c2-3889-4576-a180-dbc03428f2c9" src="https://s.abla.io/abla.js"></script>
+    {% else %}
+         <!-- Désactivé en local avec jekyll serve -->
+    {% endif %}
 
   </head>
 
