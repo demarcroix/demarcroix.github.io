@@ -66,4 +66,4 @@ Et quand vous aurez enfin généré votre certificat S/MIME, il faudra encore l'
 
 Avec patience et méthode je suis finalement arrivé au bout de ce processus, mais finalement je me sens un peu seul dans ce cercle vertueux de la sécurisation des e-mail, car maintenant il faut que je trouve des correspondants qui auront eux aussi fait l'effort de mettre en place le cryptage d'email S/MIME...
 
-Si vous désirez en savoir plus, [contactez-nous](https://claustres.com/accompagnement-rgpd/)!
+Si vous désirez en savoir plus, [c'est par ici](../accompagnement-rgpd/)!

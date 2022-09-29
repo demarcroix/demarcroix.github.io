@@ -54,4 +54,4 @@ Le G29 préconise d’évaluer successivement :
 
 La CNIL quant à elle insiste sur la documentation à mettre en place pour démontrer l’intérêt légitime du responsable de traitements en cas de contrôle.
 
-Si vous désirez en savoir plus, [contactez-nous](https://claustres.com/accompagnement-rgpd/)!
+Si vous désirez en savoir plus, [c'est par ici](../accompagnement-rgpd/)!

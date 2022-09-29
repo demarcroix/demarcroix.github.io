@@ -53,4 +53,4 @@ Le _privacy by default_ implique par exemple d’être à l’état de l’art e
 En France, les devoirs d'information sur les traitements et les violations n'ont rien de nouveau, puisqu’ils existaient depuis les débuts de la Loi Informatique et Liberté de 1978 – ce qui est nouveau avec le RGPD, c’est le niveau des sanctions en cas de non respect de ces obligations : jusqu’à 10 millions d’euros en dessous de 500 millions d’euros de CA mondial, 10% du CA mondial au-delà…
 
 
-Si vous désirez en savoir plus, [contactez-nous](https://claustres.com/accompagnement-rgpd/)!
+Si vous désirez en savoir plus, [c'est par ici](../accompagnement-rgpd/)!

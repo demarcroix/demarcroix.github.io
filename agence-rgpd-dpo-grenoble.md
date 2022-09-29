@@ -17,7 +17,10 @@ Nos coordonnées:
 38700 CORENC<br>
 France
 
-E-mail: [grenoble@claustres.com](mailto:grenoble@claustres.com)
+<script type="text/javascript">
+	document.write("<c>R-znvy: <n uers=\"znvygb:teraboyr@pynhfgerf.pbz\">teraboyr@pynhfgerf.pbz</n></c>".replace(/[a-zA-Z]/g,
+	function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>
 
 Téléphone: [04 76 18 59 76](tel:+33476185976)
 

@@ -17,7 +17,10 @@ Nos coordonnées:
 69001 LYON<br>
 France
 
-E-mail: [lyon@claustres.com](mailto:lyon@claustres.com)
+<script type="text/javascript">
+	document.write("<c>R-znvy: <n uers=\"znvygb:ylba@pynhfgerf.pbz\">ylba@pynhfgerf.pbz</n></c>".replace(/[a-zA-Z]/g,
+	function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>
 
 Téléphone: [04 28 29 08 24](tel:+33428290824)
 

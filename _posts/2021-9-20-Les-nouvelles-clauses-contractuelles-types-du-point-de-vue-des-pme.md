@@ -51,4 +51,4 @@ La Commission Européenne aurait dû dresser une liste des pays "interdits de tr
 
 Sauf que cela impliquerait en particulier de mettre les Etats-Unis avec leur CLOUD Act (23/03/2018) sur cette liste de pays interdits de transfert de données personnelles même avec des CCT, ce qui semble politiquement difficile à envisager malgré (ou à cause de) la toute puissance des GAFAM...
 
-Si vous voulez en savoir plus, [contactez-nous](https://claustres.com/accompagnement-rgpd/)!
+Si vous voulez en savoir plus, [c'est par ici](../accompagnement-rgpd/)!

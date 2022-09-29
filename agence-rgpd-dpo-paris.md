@@ -17,7 +17,10 @@ Nos coordonnées:
 75008 PARIS<br>
 France
 
-E-mail: [paris@claustres.com](mailto:paris@claustres.com)
+<script type="text/javascript">
+	document.write("<c>R-znvy: <n uers=\"znvygb:cnevf@pynhfgerf.pbz\">cnevf@pynhfgerf.pbz</n></c>".replace(/[a-zA-Z]/g,
+	function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>
 
 Téléphone: [01 89 16 54 96](tel:+33189165496)
 

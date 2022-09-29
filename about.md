@@ -9,7 +9,10 @@ Le site CLAUSTRES.COM est la propriété de la Société Claustres Conseil Inter
 
 Directeur de la publication : Monsieur François CLAUSTRES
 
-Vous pouvez nous contacter par courrier postal ou sur contact(at)claustres.com (remplacer "(at)" par "@" )
+<script type="text/javascript">
+	document.write("<c>Ibhf cbhirm abhf pbagnpgre cne pbheevre cbfgny bh fhe <n uers=\"znvygb:pbagnpg@pynhfgerf.pbz\">pbagnpg@pynhfgerf.pbz</n></c>".replace(/[a-zA-Z]/g,
+	function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>
 
 Hébergeur du site Web :
 
