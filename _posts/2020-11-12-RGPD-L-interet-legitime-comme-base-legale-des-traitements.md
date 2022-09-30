@@ -53,5 +53,3 @@ Le G29 préconise d’évaluer successivement :
 *	Les garanties supplémentaires à offrir éventuellement aux personnes concernées pour rééquilibrer la balance.
 
 La CNIL quant à elle insiste sur la documentation à mettre en place pour démontrer l’intérêt légitime du responsable de traitements en cas de contrôle.
-
-Si vous désirez en savoir plus, [c'est par ici](../accompagnement-rgpd/)!

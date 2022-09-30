@@ -48,6 +48,3 @@ Mais c’est aussi la preuve qu’on peut traiter un sujet sérieux (la protecti
 
 
 Au final c’est quand même rassurant que dans un univers Web largement dominé par Google, il soit tout à fait possible de n’utiliser que des solutions respectueuses des données, comme par exemple un « combo » de CMP Tarte au Citron ou Orejime, avec MATOMO pour l’analytique.
-
-
-Si vous voulez en savoir plus, [c'est par ici](../accompagnement-rgpd/)!

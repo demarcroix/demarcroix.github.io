@@ -27,5 +27,3 @@ Enfin cela se retrouve aussi par des audits du responsable des traitements souve
 Le seul moment où le responsable est en position de force par rapport à l'éditeur, c'est **AVANT** la signature du contrat : c'est donc à ce moment qu'il faut évoquer les problématiques RGPD et négocier les conditions de la sous-traitance des données personnelles, car au final les différents logiciels offrent peu ou prou les mêmes fonctionnalités... Et ces aspects contractuels peuvent faire la différence!
 
 C'est d'ailleurs un bon test de maturité de l'éditeur sur sa façon d'appréhender la sécurisation des données personnelles que vous allez lui confier, et plus généralement la qualité de la relation commerciale qui va suivre.
-
-Si vous avez besoin besoin d'être accompagné sur ces problématiques de DPA, [c'est par ici](../accompagnement-rgpd/).

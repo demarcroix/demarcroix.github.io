@@ -25,7 +25,7 @@ La transparence, c’est ensuite le rappel par le responsable des traitements qu
 
 La transparence, c’est enfin le rappel qu’en cas de réponses insatisfaisantes suite à leurs demandes auprès du responsable des traitements, les personnes concernées peuvent s’adresser à leur autorité compétente (la CNIL en France) pour faire respecter leurs droits.
 
-![Devoir d'information sur les traitements]({{ site.baseurl }}/images/devoir-info-rgps/RGPD-transparence-traitements.png "Devoir d'information sur les traitements"){: .center-image }
+![Devoir d'information sur les traitements]({{ site.baseurl }}/images/devoir-info-rgpd/RGPD-transparence-traitements.png "Devoir d'information sur les traitements"){: .center-image }
 
 Cette transparence inclut des informations sur les sous-traitances des traitements de données personnelles, les traitements en dehors de l’Union Européenne (pays adéquats, clauses contractuelles types etc.) – et plus généralement tout ce qui concerne la licéité des traitements, comme par exemple la suppression d’un compte client qui n’implique pas immédiatement la suppression de ses factures (obligations légales).
 
@@ -51,6 +51,3 @@ Le _privacy by default_ implique par exemple d’être à l’état de l’art e
 
 
 En France, les devoirs d'information sur les traitements et les violations n'ont rien de nouveau, puisqu’ils existaient depuis les débuts de la Loi Informatique et Liberté de 1978 – ce qui est nouveau avec le RGPD, c’est le niveau des sanctions en cas de non respect de ces obligations : jusqu’à 10 millions d’euros en dessous de 500 millions d’euros de CA mondial, 10% du CA mondial au-delà…
-
-
-Si vous désirez en savoir plus, [c'est par ici](../accompagnement-rgpd/)!

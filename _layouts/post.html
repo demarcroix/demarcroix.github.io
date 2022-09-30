@@ -7,10 +7,18 @@ layout: default
 
   <div class="entry">
     {{ content }}
+    <hr>
+    <p align=center>Vous avez des problématiques RGPD? <a href="{{ site.baseurl }}/accompagnement-rgpd/"> Les solutions sont par ici !</a></p>
+    <hr>
   </div>
 
+  {% assign months = "janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre" | split: "|" %}
+  {% assign m = page.date | date: "%-m" | minus: 1 %}
+  {% assign day = page.date | date: "%-d" %}
+  {% assign month = months[m] %}
+  {% assign year = page.date | date: "%Y" %}
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Publié le {{ day }}&nbsp;{{ month }}&nbsp;{{ year }}
   </div>
 
   {% include disqus.html %}

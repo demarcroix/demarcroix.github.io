@@ -65,5 +65,3 @@ Mais peu de gens savent que l'on peut se passer de ces générateurs de certific
 Et quand vous aurez enfin généré votre certificat S/MIME, il faudra encore l'installer dans le client de messagerie, par exemple sur [Thunderbird](https://www.ssl.com/fr/comment/installer-un-certificat-mime-s-et-envoyer-des-e-mails-s%C3%A9curis%C3%A9s-dans-mozilla-thunderbird-sur-windows-10/) ou [Outlook](https://www.ssl.com/fr/comment/installation-du-certificat-mime-s-envoi-de-courrier-%C3%A9lectronique-s%C3%A9curis%C3%A9-Outlook-Windows-10/).
 
 Avec patience et méthode je suis finalement arrivé au bout de ce processus, mais finalement je me sens un peu seul dans ce cercle vertueux de la sécurisation des e-mail, car maintenant il faut que je trouve des correspondants qui auront eux aussi fait l'effort de mettre en place le cryptage d'email S/MIME...
-
-Si vous désirez en savoir plus, [c'est par ici](../accompagnement-rgpd/)!

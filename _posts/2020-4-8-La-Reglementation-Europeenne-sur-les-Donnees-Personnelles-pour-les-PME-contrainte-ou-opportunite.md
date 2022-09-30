@@ -49,5 +49,3 @@ Ce mouvement de fond m’a convaincu en 2017 d’orienter mes activités de cons
 * Accompagnement dans la mise en place de la RGPD (KPI, plan d’action, cartographie…)
 * Délégué à la Protection des Données (DPO) externalisé, avec une certification « DPO Bureau Veritas » depuis février 2018,
 * Missions ponctuelles d’accompagnement en avant-vente pour cadrer les enjeux RGPD en amont des projets.
-
-Pour en savoir plus [c'est par ici](../accompagnement-rgpd/)!
