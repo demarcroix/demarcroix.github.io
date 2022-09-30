@@ -1,7 +1,7 @@
 
----
+&nbsp;
 
-![Contacter Claustres Conseil]({{ site.baseurl }}/images/contacter-claustres-conseil.jpg "Contacter Claustres Conseil")\
+![Contacter Claustres Conseil]({{ site.baseurl }}/images/contacter-claustres-conseil.jpg "Contacter Claustres Conseil")
 N’hésitez pas à nous contacter si vous êtes sur Paris, Lyon, Grenoble, Chambéry, Annecy, Valence…
 * Agence de [Paris]({{ site.baseurl }}/agence-rgpd-dpo-paris) : [01 89 16 54 96](tel:+33189165496)
 * Agence de [Lyon]({{ site.baseurl }}/agence-rgpd-dpo-lyon) : [04 28 29 08 24](tel:+33428290824)

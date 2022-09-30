@@ -19,4 +19,8 @@ Par exemple, ils vont  uniquement décrire les outils logiciels qu'ils utilisent
 
 Nous proposons aux DPO une **méthodologie de mise en place opérationnelle du RGPD**, basée sur le principe des **interviews d'audits**, où les sachants sont accompagnés dans la description des traitements qu'ils mettent en œuvre, et où le **logiciel RGPD** est un outil qui permet de faciliter ces interviews d'audits et de renseigner et documenter les traitements correctement décrits.
 
-{%include bas-page-sans-dpo.md %}
+&nbsp;
+
+---
+
+{%include bas-page-contacter.md %}
