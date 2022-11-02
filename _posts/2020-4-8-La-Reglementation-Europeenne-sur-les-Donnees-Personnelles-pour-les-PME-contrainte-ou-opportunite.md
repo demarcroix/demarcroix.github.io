@@ -5,7 +5,7 @@ redirect_from:
   - /post/2018/03/30/La-R%C3%A8glementation-Europ%C3%A9enne-sur-les-Donn%C3%A9es-Personnelles-pour-les-PME-%3A-contrainte-ou-opportunit%C3%A9
 ---
 
-_(Cet article est paru initialement le vendredi 30/03/2018 sur l'ancien Blog)_
+_(Cet article est paru initialement le vendredi 30/03/2018 sur l'ancien site Web)_
 
 On entend parler de plus en plus de la RGPD dans les PME, mais souvent de façon parcellaire ou superficielle, avec des chef d’entreprise qui s’auto-persuadent que « vu ma taille je ne suis pas concerné », ou bien « j’ai des clients B2B, je ne suis pas concerné » ou aussi « ça ne concerne que les informaticiens »… Etc.
 

@@ -5,7 +5,7 @@ redirect_from:
   - /post/2018/12/12/Quelques-visuels-sur-la-solution-RoPA-de-Safran-de-registre-RGPD-GDPR
 ---
 
-_(Cet article est paru initialement le mercredi 12/12/2018 sur l'ancien Blog)_
+_(Cet article est paru initialement le mercredi 12/12/2018 sur l'ancien site Web)_
 
 ![Identification Safran - RoPA, déc. 2018]({{ site.baseurl }}/images/Safran-RoPA/Screenshot_2018-12-11_Identification_AppName.png "Identification Safran - RoPA, déc. 2018")
 

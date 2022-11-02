@@ -5,7 +5,7 @@ redirect_from:
   - /post/2019/12/04/Cartographie-du-registre-des-activit%C3%A9s-de-traitement-de-la-CNIL-%28d%C3%A9cembre-2019%29
 ---
 
-_(Cet article est paru initialement le mercredi 04/12/2019 sur l'ancien Blog)_
+_(Cet article est paru initialement le mercredi 04/12/2019 sur l'ancien site Web)_
 
 La CNIL a rendu public son registre des activités de traitements : l'occasion de voir comment l'autorité française s'applique à elle-même le Règlement Européen sur les Données Personnelles (RGPD / GDPR) !
 
