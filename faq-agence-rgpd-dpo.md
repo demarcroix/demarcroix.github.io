@@ -6,8 +6,13 @@ permalink: /faq-agence-rgpd-dpo/
 
 &nbsp;
 
+## Qu'est-ce que le RGPD ?
+Le Règlement Européen sur la Protection des Données (RGPD) définit un cadre minimal de protection des données personnelles au sein de l'Union Européenne (UE) et de l'Espace Economique Européen (EEE) depuis son entrée en vigueur le 25 mai 2018. Il reprend la plupart des principes édictés en France par la Loi Informatique et Libertés de 1978, qui est la première règlementation sur les données personnelles dans le monde.
+
+&nbsp;
+
 ## Qu'est-ce qu'une Agence RGPD ?
-Une Agence RGPD vous accompagne à 360° dans votre démarche de mise en conformité avec le Règlement Européen sur la Protection des Données. Complémentaire de votre Conseil juridique habituel, une Agence RGPD se distingue par sa capacité à auditer l'ensemble des traitements de données personnelles au sein de votre organisme, afin de pouvoir ensuite vous accompagner dans la formalisation des délivrables requis par le RGPD.
+Une Agence RGPD accompagne votre organisme à 360° dans la démarche de mise en conformité avec le Règlement Européen sur la Protection des Données. Complémentaire de votre Conseil juridique habituel, une Agence RGPD se distingue notamment par sa capacité à auditer l'ensemble des traitements de données personnelles au sein de votre organisme, afin de pouvoir ensuite vous accompagner dans la formalisation des délivrables requis par le RGPD.
 
 &nbsp;
 
@@ -27,7 +32,7 @@ Tout organisme concerné par le RGPD doit au minimum tenir en son sein un regist
 &nbsp;
 
 ## Qu'est-ce qu'un DPO ?
-Le DPO est le contrôleur interne de la conformité RGPD. Pour accomplir sa mission, il faut non seulement qu'il ait la connaissance du RGPD et les moyens requis pour sa mission, mais aussi qu'il ne soit pas juge et partie dans la définition et mise en place des traitements de données personnelles. Par conséquent, la plupart des postes de direction sont incompatibles avec cette fonction: Secrétaire Général, DG, PDG, Directeur opérationnel, DAF, Médecin-chef, DRH, DSI... Liste non exhaustive.
+Le DPO est le contrôleur interne de la conformité RGPD. Il faut non seulement qu'il ait la connaissance du RGPD et les moyens requis pour accomplir sa mission, mais aussi qu'il ne soit pas juge et partie dans la définition et mise en place des traitements de données personnelles. Par conséquent, la plupart des postes de direction sont incompatibles avec cette fonction: Secrétaire Général, DG, PDG, Directeur opérationnel, DAF, Médecin-chef, DRH, DSI... Liste non exhaustive.
 
 &nbsp;
 
