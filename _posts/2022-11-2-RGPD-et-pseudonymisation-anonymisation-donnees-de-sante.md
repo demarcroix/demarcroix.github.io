@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "RGPD et pseudonymisation ou anonymisation des données de santé"
+redirect_from:
+  - /RGPD-et-pseudonymisation-anonymisation-donnees-de-sante-Copie/
 ---
-
 
 Je suis souvent confronté à cette réflexion par des professionnels des métiers de la santé: "il n'y a plus de données personnelles de patients (nom, prénom, date de naissance, numéro de SS etc.) dans ces données de santé, DONC c'est un traitement de données anonymes"...
 
