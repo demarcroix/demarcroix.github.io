@@ -27,26 +27,26 @@ Site Web de l'hébergeur: [GitHub.com](https://github.com)
 
 Le site Web CLAUSTRES.COM a pour objet de fournir des informations sur le Règlement Européen sur les Données Personnelles (RGPD ou GDPR en anglais).
 
-### Traitement des données personnelles
+### Traitements de données personnelles
 
 Nous ne traitons des données personnelles sur le site Web CLAUSTRES.COM que pour la finalité légitime de disposer de **statistiques anonymisées**.
 
 La solution utilisée est [Wysistat](https://www.wysistat.net/) dont l'implémentation est conforme aux [recommandations de la CNIL](https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies-solutions-pour-les-outils-de-mesure-daudience) pour l'exemption de consentement préalable.
 
-Wysistat utilise son propre cookie pour stocker un identifiant anonyme de l’internaute. La méthode de création de l’identifiant est détaillée plus bas au point I.3 (Type de données)
+Wysistat utilise son propre cookie pour stocker un identifiant anonyme de l’internaute.
 
-Lors de la première page vue, notre code javascript créé un cookie nommé Wysistat avec le contenu suivant :
+Lors de la première page vue, un code javascript créé un cookie nommé Wysistat avec le contenu suivant :
 
 `Identifiant Visite ; Compteur Mois ; TimeStamp de la dernière connexion ; Compteur Jour ; TimeStamp de la première connexion ; Identifiant Internaute ; Date d'expiration du cookie`
 
 Par exemple :
-``*0.3244453844368296_1616085923485;7;1616086022548;3;1616066588;0.9282354910797472_1616066588153;*1680362399179``
+``*0.3244453844368296_1616085923485;7;1616086022548;3;1616066588; 0.9282354910797472_1616066588153;*1680362399179``
 
-Ce cookie est un cookie « first party » posé sur le domaine où le marqueur est posé pour une durée de 13 mois, qui est la recommandation CNIL dans le cas spécifique des outils de mesure d’audience.
+Ce cookie est un cookie « first party » posé sur le domaine où le marqueur pour une durée de 13 mois, qui est la recommandation CNIL dans le cas spécifique des outils de mesure d’audience.
 
 La date de péremption du cookie n’est pas remise à jour à chaque visite ou page vue.
 
-L’identifiant de visite est généré lors de sa première visite sur une page marquée par Wysistat. Il se compose d’un nombre aléatoire.
+L’identifiant de visite est généré lors de la première visite sur une page marquée par Wysistat. Il se compose d’un nombre aléatoire.
 
 Ces **données brutes** associées à d'autres issues de votre navigateur ou votre navigation sont traitées uniquement par Wysistat, et conservées 3 mois pour la seule finalité de réalisation des statistiques anonymes:
 
@@ -66,7 +66,30 @@ Voir la [collecte des données personnelles de GITHUB](https://help.github.com/e
 
 ### Droits des personnes concernées
 
-TODO
+Conformément à la Loi Informatique et Liberté du 6 janvier 1978 modifiée et dans le cadre de la règlementation européenne sur les données personnelles (RGPD), vous disposez des droits suivants :
+
+- droit d’accès : si elles existent, et si la loi autorise le propriétaire du site Web à le faire, informations sur les données personnelles détenue ;
+- droit à la rectification : mise à jour des données personnelles (modification ou le cas échéant ajout de nouvelles données) ;
+- droit à l’effacement (droit à l’oubli) : effacement des données personnelles, en dehors de certaines exceptions (liberté d’expression et d’information, respect d’obligations légales, intérêt public…) ;
+- droit d’opposition : blocage des traitements en cas de contestation sur une licéité basée sur l’intérêt légitime du propriétaire du site Web ;
+- droit à la limitation: en cas de contestation sur certains traitements (par exemple suite à une demande d’exercice du droit d’opposition), limitation aux traitements non contestés et sauvegarde des informations sur les traitements contestés ;
+- droit à la portabilité : extraction dans un format réutilisable par une machine des données personnelles, quand les deux conditions de la portabilité sont remplies simultanément (d’une part traitements fondés sur consentement ou contrat, et d’autre part traitements réalisés à l’aide de procédés automatisés).
+
+Sauf cas particuliers, le propriétaire du site Web doit vous répondre dans un délai d’un mois suite à votre demande d’exercice de droits.
+
+Pour en savoir plus sur les droits des personnes concernées, [vous pouvez consulter cette page de la CNIL](https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles).
+
+Pour exercer vos droits, vous pouvez nous écrire un courrier postal ou un e-mail:
+- CLAUSTRES CONSEIL INTERNET SARL, 153 avenue de l'Eygala, 38700 CORENC (FRANCE)
+- <script type="text/javascript">
+	document.write("<n uers=\"znvygb:pbagnpg@pynhfgerf.pbz\">pbagnpg@pynhfgerf.pbz</n>".replace(/[a-zA-Z]/g,
+	function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+</script>
+
+Si les réponses fournies ne vous ont pas satisfaites, vous pouvez porter réclamation auprès de la Commission Nationale Informatique et Libertés (CNIL) :
+
+- Adresse postale : CNIL, 3 place de Fontenoy, TSA 80715, 75334 – PARIS CEDEX 07 (FRANCE)
+- Site Web : [https://www.cnil.fr/fr/plaintes/](https://www.cnil.fr/fr/plaintes/)
 
 ### Propriété intellectuelle et contrefaçons
 
