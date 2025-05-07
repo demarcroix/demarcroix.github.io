@@ -19,8 +19,8 @@ Cependant comme beaucoup de solutions open source, il faut maîtriser un minimum
 
 ### Orejime : open source, auto-hébergé et référence APD
 
-La solution [orejime](https://orejime.empreintedigitale.fr/) est développée par la SCOP française Empreinte Digitale qui développe des solutions numériques responsables (RSE, Green IT etc.).
-Comme Tarte au Citron, [elle est open source](https://github.com/empreinte-digitale/orejime) et disponible en auto-hébergé.
+La solution [orejime](https://orejime.boscop.fr/) est développée par la SCOP française BOSCOP (anciennement: "Empreinte Digitale") qui développe des solutions numériques responsables (RSE, Green IT etc.).
+Comme Tarte au Citron, [elle est open source](https://github.com/boscop-fr/orejime) et disponible en auto-hébergé.
 
 Elle est aussi très crédible, car utilisée aussi bien par l’[Autorité de Contrôle belge (APD)](https://www.autoriteprotectiondonnees.be/citoyen) que par le site Web [Service-Public.fr](https://www.service-public.fr/) en France.
 
