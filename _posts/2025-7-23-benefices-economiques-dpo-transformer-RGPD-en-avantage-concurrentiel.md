@@ -27,6 +27,8 @@ Les entreprises dont le modèle économique repose sur l'exploitation des donné
 
 Le DPO joue un rôle préventif crucial à travers ses missions d'information, de sensibilisation, de conseil et de contrôle. Il contribue à identifier et à corriger les non-conformités avant qu'elles ne deviennent problématiques, tout en servant d'interface avec l'autorité de contrôle et les personnes concernées par les traitements. Cette fonction de prévention active permet de réduire significativement la probabilité d'être sanctionné, transformant un risque potentiellement coûteux en avantage concurrentiel.
 
+![Les bénéfices du DPO]({{ site.baseurl }}/images/avantages-concurrentiels/les-benefices-du-dpo.jpg "Image générée avec Leonardo Anime XL"){: .center-image }
+
 # II. L'optimisation opérationnelle et la sécurisation des données
 
 ## La protection contre les cyberattaques et les fuites de données
