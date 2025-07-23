@@ -9,6 +9,8 @@ Cette transformation de perspective s'avère cruciale dans un contexte où la pr
 
 Les résultats montrent que 58% des DPO évoluent dans des organisations où la conformité est perçue positivement, et que 36% d'entre eux travaillent dans des petites entreprises qui considèrent la conformité comme un levier. Cette approche positive se traduit par des bénéfices économiques tangibles : avantages concurrentiels dans les appels d'offres, évitement des sanctions coûteuses, prévention des fuites de données et rationalisation de la gestion des données. Ces bénéfices ne sont cependant pas automatiques et dépendent largement de l'investissement consenti par l'entreprise dans cette fonction et de sa capacité à valoriser sa conformité.
 
+![Les bénéfices du DPO]({{ site.baseurl }}/images/avantages-concurrentiels/les-benefices-du-dpo.jpg "Image générée avec Leonardo Anime XL"){: .center-image }
+
 # I. Les leviers de création de valeur du DPO dans l'écosystème économique
 
 ## Un atout différenciant dans les appels d'offres
@@ -26,8 +28,6 @@ L'évitement des sanctions constitue l'un des bénéfices les plus tangibles de 
 Les entreprises dont le modèle économique repose sur l'exploitation des données ou la commercialisation de solutions innovantes potentiellement intrusives sont particulièrement sensibles à ce risque. Pour elles, l'enjeu dépasse largement le coût monétaire de la sanction : c'est l'impact sur l'image de marque qui constitue la principale préoccupation. Une sanction publique peut avoir des répercussions durables sur les relations clients, la notation financière et même les capacités de financement de l'entreprise.
 
 Le DPO joue un rôle préventif crucial à travers ses missions d'information, de sensibilisation, de conseil et de contrôle. Il contribue à identifier et à corriger les non-conformités avant qu'elles ne deviennent problématiques, tout en servant d'interface avec l'autorité de contrôle et les personnes concernées par les traitements. Cette fonction de prévention active permet de réduire significativement la probabilité d'être sanctionné, transformant un risque potentiellement coûteux en avantage concurrentiel.
-
-![Les bénéfices du DPO]({{ site.baseurl }}/images/avantages-concurrentiels/les-benefices-du-dpo.jpg "Image générée avec Leonardo Anime XL"){: .center-image }
 
 # II. L'optimisation opérationnelle et la sécurisation des données
 
