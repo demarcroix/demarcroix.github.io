@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Les ransomwares et le RGPD : enjeux de protection des données face aux cyberattaques"
+title: "Les ransomwares et le RGPD : les enjeux de la protection des données face aux cyberattaques"
 description: "Découvrez les conséquences économiques des attaques de ransomwares de type Akira pour les entreprises européennes."
 ---
 L'évolution du paysage numérique s'accompagne d'une recrudescence inquiétante des cyberattaques par ransomware, dont les répercussions dépassent largement le cadre technique pour toucher au cœur des obligations légales en matière de protection des données personnelles.
