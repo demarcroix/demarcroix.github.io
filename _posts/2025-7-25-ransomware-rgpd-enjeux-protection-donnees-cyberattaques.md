@@ -11,6 +11,8 @@ Les attaques par ransomware ne se contentent plus de chiffrer les données pour 
 
 L'analyse des récentes attaques, notamment celles perpétrées par le groupe Akira, révèle l'ampleur des défis auxquels sont confrontées les organisations. Entre la pression exercée par les cybercriminels, les recommandations des autorités de ne pas céder au chantage, et les exigences strictes du RGPD en matière de notification et de protection des données, les entreprises victimes se trouvent dans une situation juridique et opérationnelle particulièrement complexe.
 
+![Ransomware Akira]({{ site.baseurl }}/images/ransomwares/akira-met-le-feu.jpg "Image générée avec Leonardo Anime XL"){: .center-image }
+
 # I. L'impact des ransomwares sur la conformité RGPD : entre violation de données et obligations légales
 
 ## La double dimension des attaques modernes
